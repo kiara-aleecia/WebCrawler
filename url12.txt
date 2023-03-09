@@ -1,0 +1,1642 @@
+
+
+
+
+
+
+
+
+
+
+Technologies • MBARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+MBARI
+
+
+
+
+
+
+
+
+Publications
+Data
+Directory
+Galleries
+
+ 
+
+Our Work
+
+
+
+
+ Our WorkMBARI creates and globally scales the visionary technologies required to explore, map, and understand our changing ocean.
+Our Work Sub
+
+Research & Development
+
+Focus Areas
+Teams
+Projects
+Data & Repositories
+Publications
+Expeditions
+
+
+Technology
+
+All Technologies
+Instruments
+Observatories
+Software
+Vehicles
+Tech Transfer
+
+
+Marine Operations
+
+Monterey Bay Today
+Ships
+Schedules
+
+
+
+
+
+
+Education
+
+
+
+
+ EducationResources for educators, students, and anyone aspiring to learn how science and technology brings us closer to the ocean.
+Education Sub
+
+EARTH CurriculumIntegrate MBARI data with lesson plans and workshops.
+Animals of the DeepDiscover deep-sea critters, including exclusive footage and info.
+Know Your OceanDive into topics about ocean health and its fascinating features.
+Deep-Sea GuideExplore deep-sea observations with this interactive guide.
+LibraryLearn about the MLML/MBARI Research Library at SJSU.
+More ResourcesAccess more educational resources from the teams at MBARI.
+
+
+
+
+News
+About
+
+
+
+
+ AboutMBARI is a non-profit oceanographic research center advancing marine science and engineering to understand our changing ocean.
+About Sub
+
+Mission & VisionLearn about MBARI’s mission, vision, and values.
+Strategic RoadmapLearn about our strategic priorities for the years ahead.
+Leadership & StaffMeet our staff, leadership, and board of directors.
+CareersFind job openings and postdoc and internship opportunities.
+Connect with UsFollow MBARI on social media and stay updated.
+EventsSee upcoming seminars, lectures, and public events.
+Reports & FinancialsAccess the latest annual reports and financial information.
+HistoryExplore MBARI’s rich history spanning over three decades.
+For MediaGet media-specific information and assets.
+
+
+
+
+
+ Search
+
+
+
+
+
+
+
+Navigation Toggle
+
+
+
+
+
+
+
+
+
+
+
+Our Work
+
+
+
+
+ Our WorkMBARI creates and globally scales the visionary technologies required to explore, map, and understand our changing ocean.
+Our Work Sub
+
+Research & Development
+
+Focus Areas
+Teams
+Projects
+Data & Repositories
+Publications
+Expeditions
+
+
+Technology
+
+All Technologies
+Instruments
+Observatories
+Software
+Vehicles
+Tech Transfer
+
+
+Marine Operations
+
+Monterey Bay Today
+Ships
+Schedules
+
+
+
+
+
+
+Education
+
+
+
+
+ EducationResources for educators, students, and anyone aspiring to learn how science and technology brings us closer to the ocean.
+Education Sub
+
+EARTH CurriculumIntegrate MBARI data with lesson plans and workshops.
+Animals of the DeepDiscover deep-sea critters, including exclusive footage and info.
+Know Your OceanDive into topics about ocean health and its fascinating features.
+Deep-Sea GuideExplore deep-sea observations with this interactive guide.
+LibraryLearn about the MLML/MBARI Research Library at SJSU.
+More ResourcesAccess more educational resources from the teams at MBARI.
+
+
+
+
+News
+About
+
+
+
+
+ AboutMBARI is a non-profit oceanographic research center advancing marine science and engineering to understand our changing ocean.
+About Sub
+
+Mission & VisionLearn about MBARI’s mission, vision, and values.
+Strategic RoadmapLearn about our strategic priorities for the years ahead.
+Leadership & StaffMeet our staff, leadership, and board of directors.
+CareersFind job openings and postdoc and internship opportunities.
+Connect with UsFollow MBARI on social media and stay updated.
+EventsSee upcoming seminars, lectures, and public events.
+Reports & FinancialsAccess the latest annual reports and financial information.
+HistoryExplore MBARI’s rich history spanning over three decades.
+For MediaGet media-specific information and assets.
+
+
+
+
+
+Publications
+Data
+Directory
+Galleries
+
+
+
+
+
+                    Keyword search                
+
+
+                    Submit                
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+You might be interested in:
+
+
+Job OpeningsFind the latest job openings and join the team.
+InternshipsLearn about our summer internship program.
+Staff DirectoryMeet our leadership and staff.
+Animals of the DeepDiscover deep-sea critters of all types.
+Data & RepositoriesSearch MBARI’s library of data.
+TechnologiesLearn about our technologies.
+
+
+
+ 
+
+
+
+
+
+
+
+Technologies
+
+MBARI scientists and engineers collaborate to build and deploy innovative tools that are transforming how we access and study the ocean. From autonomous robots to cutting-edge observatories—MBARI’s technology is revolutionizing ocean science.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Instruments 
+
+
+
+
+
+
+
+Observatories 
+
+
+
+
+
+
+
+
+
+
+
+Software 
+
+
+
+
+
+
+
+Vehicles 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Technologies 
+
+
+
+Focus AreaChemistryMarine GeologyRobotic TechnologySoundTypeInstrumentObservatorySoftwareVehicleLicenseLicensing AvailableSubmit 
+
+
+
+
+
+
+
+
+
+
+
+Submit 
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Apex Profiling Floats
+
+
+
+Technology
+
+
+                    Apex Profiling Floats                
+
+                        Profiling floats with ISUS nitrate sensors                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Benthic Event Detectors
+
+
+
+Technology
+
+
+                    Benthic Event Detectors                
+
+                        A motion-sensing instrument that can be placed within the sediment or on the canyon floor.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Benthic Respirometer System (BRS)
+
+
+
+Technology
+
+
+                    Benthic Respirometer System (BRS)                
+
+                        This system measures the oxygen consumption of organisms living in the sediment.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Autonomous Robotic Rover, Autonomous Underwater Vehicle (AUV)
+Benthic Rover
+
+
+
+Technology
+
+
+                    Benthic Rover                
+
+                        A mobile lab that methodically charts deep-sea carbon cycles.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+CTD Rosette
+
+
+
+Technology
+
+
+                    CTD Rosette                
+
+                        The CTD measures conductivity (which helps determine salinity), temperature, and depth.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Deep Particle Image Velocimetry (DeepPIV)
+
+
+
+Technology
+
+
+                    Deep Particle Image Velocimetry (DeepPIV)                
+
+                        The DeepPIV consists of a laser and optics that illuminate a quantifiable sheet of fluid.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Deep-Sea DuraFet
+
+
+
+Technology
+
+
+                    Deep-Sea DuraFet                
+
+                        A pressure tolerant ISFET pH sensor.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Directional Hydrophone
+
+
+
+Technology
+
+
+                    Directional Hydrophone                
+
+                        The Directional Hydrophone samples sound at a much lower rate than the MARS omnidirectional hydrophone of the Ocean Soundscape Project.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Echosounder
+
+
+
+Technology
+
+
+                    Echosounder                
+
+                        An instrument that emits several sound frequencies from transducers, this device serves as both an underwater speaker and a microphone.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Environmental Sample Processor (ESP)
+
+
+
+Technology
+
+
+                    Environmental Sample Processor (ESP)                
+
+                        This “lab in a can” provides on-site collection and analysis of water samples from the ocean, identifying the presence of organisms and/or biological toxins.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Free-OceanCarbon Enrichment (FOCE) system
+
+
+
+Technology
+
+
+                    Free-OceanCarbon Enrichment (FOCE) system                
+
+                        An experiment designed to study the effects of increased carbon dioxide concentrations in seawater on marine animals.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Autonomous Underwater Vehicle (AUV), Dorado Class
+Gulper
+
+
+
+Technology
+
+
+                    Gulper                
+
+                        An upper-water-column autonomous underwater vehicle that rapidly acquires multiple large-volume seawater samples throughout the upper water column.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Autonomous Underwater Vehicle (AUV), Dorado Class
+i2Map
+
+
+
+Technology
+
+
+                    i2Map                
+
+                        An autonomous underwater vehicle with a high-resolution camera, downward and forward-looking acoustic transducers, and water chemistry sensors.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+In Situ Ultraviolet Spectrophotometer (ISUS)
+
+
+
+Technology
+
+
+                    In Situ Ultraviolet Spectrophotometer (ISUS)                
+
+                        A sensor that measures concentrations of dissolved chemicals from their Ultraviolet Absorption Spectrum.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Investigations of Imaging for Midwater Autonomous Platforms
+
+
+
+Technology
+
+
+                    Investigations of Imaging for Midwater Autonomous Platforms                
+
+                        A high-resolution video camera in the nose cone of the Dorado autonomous underwater vehicle.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Lagrangian Sediment Traps (LST)
+
+
+
+Technology
+
+
+                    Lagrangian Sediment Traps (LST)                
+
+                        These sediment traps collect small particles sinking from the surface waters of the ocean to study their chemical and biological properties.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Laser Measure
+
+
+
+Technology
+
+
+                    Laser Measure                
+
+                        ROV Video Transects MBARI’s remotely operated vehicles (ROVs) frequently perform benthic video transects, where the ROV flies in a straight line just above the seafloor over kilometer distances. The main video camera records all of the benthic animals seen, providing valuable information to benthic ecologists on what species are present and in what numbers. While …                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Laser Raman Spectroscopy
+
+
+
+Technology
+
+
+                    Laser Raman Spectroscopy                
+
+                        Laser spectrometers are used for geochemical studies in the deep ocean.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Autonomous Underwater Vehicle (AUV), Tethys Class
+Long Range AUV (LRAUV)
+
+
+
+Technology
+
+
+                    Long Range AUV (LRAUV)                
+
+                        The long-range AUV (LRAUV) greatly expands the types of observations and experiments possible with autonomous platforms.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+MARS Echosounder
+
+
+
+Technology
+
+
+                    MARS Echosounder                
+
+                        DEIMOS data helps researchers understand how animals in the open ocean respond to underwater events and processes.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software
+MATLAB Scripts
+
+
+
+Technology
+
+
+                    MATLAB Scripts                
+
+                        MATLAB scripts for oceanographic calculations                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software
+MB-System
+
+
+
+Technology
+
+
+                    MB-System                
+
+                        Open source software for processing and display of multibeam and sidescan sonar data.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Midwater Respirometer System (MRS)
+
+
+
+Technology
+
+
+                    Midwater Respirometer System (MRS)                
+
+                        An instrument that allows MBARI researchers to study the breathing of deep-sea animals without removing the animals from their environment.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Remotely Operated Vehicle (ROV)
+MiniROV
+
+
+
+Technology
+
+
+                    MiniROV                
+
+                        The MiniROV is used to conduct shallow water transects and make in situ observations.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Mobile Flow Cytometer
+
+
+
+Technology
+
+
+                    Mobile Flow Cytometer                
+
+                        This instrument uses a tuned light source to reveal cell size and the presence of fluorescent pigments that allow cells to be identified.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observatory, Cabled Observatory
+Monterey Accelerated Research System (MARS)
+
+
+
+Technology
+
+
+                    Monterey Accelerated Research System (MARS)                
+
+                        MARS provides electrical power and data connections for new research instruments in the deep-sea.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observatory, Mooring
+Moorings
+
+
+
+Technology
+
+
+                    Moorings                
+
+                        Moorings are used to measure basic oceanographic parameters like wind speed, temperature, and salinity.                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Remotely Operated Vehicle (ROV)
+ROV Doc Ricketts
+
+
+
+Technology
+
+
+                    ROV Doc Ricketts 
+
+                        An integrated unmanned submersible research platform with features providing efficient, reliable, and precise sampling and data collection.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Remotely Operated Vehicle (ROV)
+ROV Ventana
+
+
+
+Technology
+
+
+                    ROV Ventana 
+
+                        A remotely operated vehicle equipped with a Sea-Bird 19plus V2 CTD package including a dissolved oxygen sensor, transmissometer, and spatial lasers mounted on the main camera.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Autonomous Underwater Vehicle (AUV), Dorado Class
+Seafloor Mapping AUV
+
+
+
+Technology
+
+
+                    Seafloor Mapping AUV                
+
+                        The Dorado class autonomous underwater vehicles are optimized for meter-scale seafloor mapping.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Sediment Event Sensor (SES)
+
+
+
+Technology
+
+
+                    Sediment Event Sensor (SES)                
+
+                        A sediment trap that images the sample rather than collecting it.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Sediment Traps
+
+
+
+Technology
+
+
+                    Sediment Traps                
+
+                        Sediment traps collect the samples needed for the lab’s measure of particulate organic carbon.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+SeeStar Imaging System
+
+
+
+Technology
+
+
+                    SeeStar Imaging System                
+
+                        A modular, light weight, self-contained, low-cost subsea imaging system for short to long-term monitoring of marine ecosystems.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Smart Underwater Connector
+
+
+
+Technology
+
+
+                    Smart Underwater Connector                
+
+                        The Smart Underwater Connector allows a host computer to recognize an instrument and begin accepting data from it immediately.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software
+Spatial-Temporal Oceanographic Query System (STOQS)
+
+
+
+Technology
+
+
+                    Spatial-Temporal Oceanographic Query System (STOQS)                
+
+                        This open-source software program provides new capabilities for scientists to gain insight from oceanographic data.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observatory
+Station M
+
+
+
+Technology
+
+
+                    Station M                
+
+                        Instruments at this research site continuously study deep-sea communities 4,000 meters (2.5 miles) below the ocean’s surface and 291 kilometers (181 miles) off the coast of Santa Barbara, California.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Unmanned Aerial Autonomous Vehicle (UAS)
+Uncrewed Aerial System (UAS)
+
+
+
+Technology
+
+
+                    Uncrewed Aerial System (UAS)                
+
+                        The Uncrewed Aerial Vehicle (UAV) is an aerial platform for cameras and other sensors that observe phenomena at or near the sea surface.                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Vibracores
+
+
+
+Technology
+
+
+                    Vibracores                
+
+                        Vibracoring is a common technique used to obtain samples from water-saturated sediment.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software
+Video Annotation and Reference System (VARS)
+
+
+
+Technology
+
+
+                    Video Annotation and Reference System (VARS)                
+
+                        A software interface and database system that provides tools for describing, cataloging, retrieving, and viewing the data associated with deep-sea video archives.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vehicle, Autonomous Surface Vehicle (ASV)
+Wave Glider
+
+
+
+Technology
+
+
+                    Wave Glider                
+
+                        An autonomous surface vehicle built by Liquid Robotics, purchased and outfitted with sensors and communications gear by MBARI engineering.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Wave Glider-Based Communications Hotspot
+
+
+
+Technology
+
+
+                    Wave Glider-Based Communications Hotspot                
+
+                        An integrated system that enables autonomous devices to talk back.                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instrument
+Wave-Power Buoy
+
+
+
+Technology
+
+
+                    Wave-Power Buoy                
+
+                        A buoy that generates power from the motion of the ocean’s waves.                    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+Stay Connected
+
+Receive the latest MBARI News
+
+
+
+
+ 
+Email
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+tumblr
+
+
+
+
+
+
+
+tiktok
+
+
+
+
+
+
+
+youtube
+
+
+
+
+
+
+
+twitter
+
+
+
+
+
+
+
+facebook
+
+
+
+
+
+
+
+linkedin
+
+
+
+
+
+
+
+instagram
+
+
+
+7700 Sandholdt Road, Moss Landing, California  95039
+
+                    © 2023 MBARI
+                   
+                
+Staff Login
+Legal
+
+
+
+
+
+
+Website by Visceral
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

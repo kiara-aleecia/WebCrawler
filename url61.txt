@@ -1,0 +1,634 @@
+
+
+
+
+
+
+
+
+
+
+Strategic Roadmap • MBARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+MBARI
+
+
+
+
+
+
+
+
+Publications
+Data
+Directory
+Galleries
+
+ 
+
+Our Work
+
+
+
+
+ Our WorkMBARI creates and globally scales the visionary technologies required to explore, map, and understand our changing ocean.
+Our Work Sub
+
+Research & Development
+
+Focus Areas
+Teams
+Projects
+Data & Repositories
+Publications
+Expeditions
+
+
+Technology
+
+All Technologies
+Instruments
+Observatories
+Software
+Vehicles
+Tech Transfer
+
+
+Marine Operations
+
+Monterey Bay Today
+Ships
+Schedules
+
+
+
+
+
+
+Education
+
+
+
+
+ EducationResources for educators, students, and anyone aspiring to learn how science and technology brings us closer to the ocean.
+Education Sub
+
+EARTH CurriculumIntegrate MBARI data with lesson plans and workshops.
+Animals of the DeepDiscover deep-sea critters, including exclusive footage and info.
+Know Your OceanDive into topics about ocean health and its fascinating features.
+Deep-Sea GuideExplore deep-sea observations with this interactive guide.
+LibraryLearn about the MLML/MBARI Research Library at SJSU.
+More ResourcesAccess more educational resources from the teams at MBARI.
+
+
+
+
+News
+About
+
+
+
+
+ AboutMBARI is a non-profit oceanographic research center advancing marine science and engineering to understand our changing ocean.
+About Sub
+
+Mission & VisionLearn about MBARI’s mission, vision, and values.
+Strategic RoadmapLearn about our strategic priorities for the years ahead.
+Leadership & StaffMeet our staff, leadership, and board of directors.
+CareersFind job openings and postdoc and internship opportunities.
+Connect with UsFollow MBARI on social media and stay updated.
+EventsSee upcoming seminars, lectures, and public events.
+Reports & FinancialsAccess the latest annual reports and financial information.
+HistoryExplore MBARI’s rich history spanning over three decades.
+For MediaGet media-specific information and assets.
+
+
+
+
+
+ Search
+
+
+
+
+
+
+
+Navigation Toggle
+
+
+
+
+
+
+
+
+
+
+
+Our Work
+
+
+
+
+ Our WorkMBARI creates and globally scales the visionary technologies required to explore, map, and understand our changing ocean.
+Our Work Sub
+
+Research & Development
+
+Focus Areas
+Teams
+Projects
+Data & Repositories
+Publications
+Expeditions
+
+
+Technology
+
+All Technologies
+Instruments
+Observatories
+Software
+Vehicles
+Tech Transfer
+
+
+Marine Operations
+
+Monterey Bay Today
+Ships
+Schedules
+
+
+
+
+
+
+Education
+
+
+
+
+ EducationResources for educators, students, and anyone aspiring to learn how science and technology brings us closer to the ocean.
+Education Sub
+
+EARTH CurriculumIntegrate MBARI data with lesson plans and workshops.
+Animals of the DeepDiscover deep-sea critters, including exclusive footage and info.
+Know Your OceanDive into topics about ocean health and its fascinating features.
+Deep-Sea GuideExplore deep-sea observations with this interactive guide.
+LibraryLearn about the MLML/MBARI Research Library at SJSU.
+More ResourcesAccess more educational resources from the teams at MBARI.
+
+
+
+
+News
+About
+
+
+
+
+ AboutMBARI is a non-profit oceanographic research center advancing marine science and engineering to understand our changing ocean.
+About Sub
+
+Mission & VisionLearn about MBARI’s mission, vision, and values.
+Strategic RoadmapLearn about our strategic priorities for the years ahead.
+Leadership & StaffMeet our staff, leadership, and board of directors.
+CareersFind job openings and postdoc and internship opportunities.
+Connect with UsFollow MBARI on social media and stay updated.
+EventsSee upcoming seminars, lectures, and public events.
+Reports & FinancialsAccess the latest annual reports and financial information.
+HistoryExplore MBARI’s rich history spanning over three decades.
+For MediaGet media-specific information and assets.
+
+
+
+
+
+Publications
+Data
+Directory
+Galleries
+
+
+
+
+
+                    Keyword search                
+
+
+                    Submit                
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+You might be interested in:
+
+
+Job OpeningsFind the latest job openings and join the team.
+InternshipsLearn about our summer internship program.
+Staff DirectoryMeet our leadership and staff.
+Animals of the DeepDiscover deep-sea critters of all types.
+Data & RepositoriesSearch MBARI’s library of data.
+TechnologiesLearn about our technologies.
+
+
+
+ 
+
+
+
+
+
+
+
+Strategic Roadmap
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ MBARI works to create and globally scale the research and technology required to explore, map, and understand our changing ocean, using Monterey Bay as our testbed. 
+
+
+
+Our Strategic Priorities: 2023–2033 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+Innovate and Build 
+
+
+
+ 
+
+
+
+
+
+
+ Build scalable technologies to improve ocean health assessments
+
+Tracking and predicting the delicate balance of physical and biological processes that sustain marine ecosystems requires robust observing systems distributed widely across the ocean. New monitoring tools that leverage advances in sensing, computing, and communications are urgently needed for a more detailed view of the pace and pattern of ocean change, and to improve forecasts of future ocean conditions. MBARI has long been a leader in developing and applying emergent technologies to monitor and assess ocean health. We support the long-term efforts necessary to efficiently design, test, and iterate technologies that can then be broadly adopted by the scientific, resource management, and conservation communities. In the coming decade, we will build on this experience to develop autonomous systems capable of continuously monitoring chemical and biological ocean change in real time.Current examples:LONG RANGE AUV (LRAUV) Environmental Sample Processor (ESP)Global Ocean Biogeochemistry Array (GO-BGC)
+
+
+
+
+
+
+
+Map the deep seafloor at high resolution
+
+Just 25 percent of the seafloor has been mapped at resolutions high enough to provide details about how organisms use this unique habitat. New tools and techniques are needed to reveal seafloor geology and biology over large areas, particularly in rugged terrain and areas of societal and ecological significance. Blending multi-scale seafloor mapping, imaging, targeted sampling, and novel sensors with precision navigation, MBARI has developed the capability to conduct efficient, high-resolution, repeatable surveys of deep-sea sites. Currently, those systems require ship-based support, significantly limiting when, where, and how long they are deployed. MBARI’s expertise in engineering and marine operations, coupled with access to deep-sea habitats, provides a unique opportunity to develop a new generation of autonomous platforms, sensor suites, and data processing techniques, eliminating the restraints of human-led operations.Current examples:Arctic Shelf Edgei2Map Low Altitude Survey System
+
+
+
+
+
+
+
+Advance ocean-based artificial intelligence 
+
+Photographic, acoustic, genomic, and other sensing technologies used to inform forecasting efforts, resource management, and policy are generating massive quantities of ocean data. Recent advancements in the fields of artificial intelligence (AI) and machine learning (ML) offer tools that can address this data deluge, opening new opportunities to more efficiently characterize the changing ocean. MBARI has extensive experience designing, building, and operating advanced ocean robotics and curating the collected data. Combined with emerging technologies in edge computing, AI, and ML, we see opportunities to advance both onshore and at-sea data processing techniques, enabling the adaptive decision-making necessary to address challenges associated with ocean exploration and monitoring. MBARI’s computational and data science expertise provides a solid foundation for undertaking this work to benefit the marine research and resource management communities.Current examples: Video Annotation and Reference System (VARS)FathomNetOVAI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Explore and Protect 
+
+
+
+
+
+
+
+
+
+
+Explore and observe life in a dynamic ocean
+
+The diversity of ocean life is vast and intimately connected to human well-being. Monitoring biodiversity is critical to understanding the role marine life plays in sustaining biogeochemical processes and regulating our climate system. But systems for cataloging biology lag far behind those used to assess ocean physics and chemistry. MBARI is ideally positioned to solve this challenge with innovative approaches for a more complete account of marine lifeforms and the biogeochemical cycles they facilitate. By combining emerging sampling technologies with various platforms and new data analysis techniques, MBARI can identify factors affecting the distribution, behavior, and abundance of species from the surface to the deep seafloor. This integrated observing system approach will significantly improve our understanding of the diversity and function of ecosystems, revealing our inextricable connection to the sea.Current examples: Bioluminescence and FluorescenceBlue Whale ObservatoryThe Octopus Garden
+
+
+
+
+
+
+
+Study the impacts of climate change and other ocean threats
+
+Climate change is having a profound impact on the ocean. Pollution, overfishing, habitat loss, and expanding deep-sea mining pose additional risks to ocean health. There is an urgent need to study and predict the trajectory of ocean processes and systems in order to inform decision-making, resource management, as well as conservation and restoration practices. MBARI’s breadth of expertise in marine operations, ocean observing technology, and interdisciplinary teamwork allows us to record issues related to climate change and other threats to ocean health. With integrated observing systems—including video and acoustic imaging, chemical sensing, and biomolecular analyses—we can monitor the impacts of these risks from a variety of fixed and mobile platforms positioned at key sites. With onboard computational capacity, we can swiftly deliver the information necessary for detecting ecosystem responses to anthropogenic stressors in near real time.Current examples: Understanding the Effects of a Changing Ocean Morro Bay Windfarm PockmarksEcology of Marine Snow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Inspire and Engage 
+
+
+
+
+
+
+
+
+
+
+Share what we learn to inspire and inform ocean conservation
+
+MBARI was founded on the principle that our research and technology should be freely shared to inform management decisions, shape policy, and inspire the public to act on behalf of the ocean. For more than three decades, MBARI scientists and engineers have used a suite of tools—moorings, ships, robots, and sensors—to collect critical information about all aspects of the ocean. We have long-term datasets that exist nowhere else, including a video archive featuring more than 28,000 hours of deep-sea animals and habitats collected during more than 6,100 ROV dives. MBARI is committed to providing our data in a format that is easy to access and interpret, and to partnering with the broader marine science and policy community to use this information to advance ocean stewardship.Current examples:Animals of the DeepMBARI YOUTUBE Soundscape Listening Room
+
+
+
+
+
+
+
+Make ocean science and engineering careers accessible to all
+
+As the ocean comes under increasing threat, MBARI is committed to inspiring and engaging STEM practitioners from diverse backgrounds who share a passion for understanding and protecting the ocean. To address the myriad challenges to ocean access, it is critical that the ocean science community broaden the marine technical and operations workforce. Through MBARI’s outreach efforts—including our internship program, teacher training workshops, and social media content—we aim to share compelling observations and stories that invite everyone to join us on this journey of ocean exploration, science, and stewardship. Working closely with our education and conservation partner, the Monterey Bay Aquarium, we seek to inspire a new generation of ocean explorers through one-of-a-kind public exhibitions, education programs, and science communication. Together, we are working to provide the best science, engineering, and outreach tools to the ocean conservation field.Current examples:MBARI summer internship program
+
+
+
+
+
+
+
+Invest in our people and foster a diverse and inclusive workforce
+
+MBARI was founded on the belief that ocean exploration and technological innovation are deeply interdisciplinary activities that benefit from diverse teams guided by a shared passion, mission, and vision. By building an inclusive and welcoming environment, we embrace how diversity in our collective experience, abilities, and perspectives informs our work and how we share it with the broader community. Fostering a culture of respect, dignity, and belonging enables each of us to reach our full potential, maximizing our scientific, engineering, marine operations, and educational innovation. Together, we will continue to develop and implement new ideas, assess our progress, listen to each other, have the courage to engage in difficult conversations, and continuously innovate and improve not just the technology we design, but ways to ensure that we are all empowered to support MBARI’s mission.Current examples:DEI at MBARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Stay Connected
+
+Receive the latest MBARI News
+
+
+
+
+ 
+Email
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+tumblr
+
+
+
+
+
+
+
+tiktok
+
+
+
+
+
+
+
+youtube
+
+
+
+
+
+
+
+twitter
+
+
+
+
+
+
+
+facebook
+
+
+
+
+
+
+
+linkedin
+
+
+
+
+
+
+
+instagram
+
+
+
+7700 Sandholdt Road, Moss Landing, California  95039
+
+                    © 2023 MBARI
+                   
+                
+Staff Login
+Legal
+
+
+
+
+
+
+Website by Visceral
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

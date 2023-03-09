@@ -1,0 +1,870 @@
+
+
+
+
+
+
+
+
+
+
+New partnership advances DNA-detecting technology to help monitor aquatic health • MBARI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+MBARI
+
+
+
+
+
+
+
+
+Publications
+Data
+Directory
+Galleries
+
+ 
+
+Our Work
+
+
+
+
+ Our WorkMBARI creates and globally scales the visionary technologies required to explore, map, and understand our changing ocean.
+Our Work Sub
+
+Research & Development
+
+Focus Areas
+Teams
+Projects
+Data & Repositories
+Publications
+Expeditions
+
+
+Technology
+
+All Technologies
+Instruments
+Observatories
+Software
+Vehicles
+Tech Transfer
+
+
+Marine Operations
+
+Monterey Bay Today
+Ships
+Schedules
+
+
+
+
+
+
+Education
+
+
+
+
+ EducationResources for educators, students, and anyone aspiring to learn how science and technology brings us closer to the ocean.
+Education Sub
+
+EARTH CurriculumIntegrate MBARI data with lesson plans and workshops.
+Animals of the DeepDiscover deep-sea critters, including exclusive footage and info.
+Know Your OceanDive into topics about ocean health and its fascinating features.
+Deep-Sea GuideExplore deep-sea observations with this interactive guide.
+LibraryLearn about the MLML/MBARI Research Library at SJSU.
+More ResourcesAccess more educational resources from the teams at MBARI.
+
+
+
+
+News
+About
+
+
+
+
+ AboutMBARI is a non-profit oceanographic research center advancing marine science and engineering to understand our changing ocean.
+About Sub
+
+Mission & VisionLearn about MBARI’s mission, vision, and values.
+Strategic RoadmapLearn about our strategic priorities for the years ahead.
+Leadership & StaffMeet our staff, leadership, and board of directors.
+CareersFind job openings and postdoc and internship opportunities.
+Connect with UsFollow MBARI on social media and stay updated.
+EventsSee upcoming seminars, lectures, and public events.
+Reports & FinancialsAccess the latest annual reports and financial information.
+HistoryExplore MBARI’s rich history spanning over three decades.
+For MediaGet media-specific information and assets.
+
+
+
+
+
+ Search
+
+
+
+
+
+
+
+Navigation Toggle
+
+
+
+
+
+
+
+
+
+
+
+Our Work
+
+
+
+
+ Our WorkMBARI creates and globally scales the visionary technologies required to explore, map, and understand our changing ocean.
+Our Work Sub
+
+Research & Development
+
+Focus Areas
+Teams
+Projects
+Data & Repositories
+Publications
+Expeditions
+
+
+Technology
+
+All Technologies
+Instruments
+Observatories
+Software
+Vehicles
+Tech Transfer
+
+
+Marine Operations
+
+Monterey Bay Today
+Ships
+Schedules
+
+
+
+
+
+
+Education
+
+
+
+
+ EducationResources for educators, students, and anyone aspiring to learn how science and technology brings us closer to the ocean.
+Education Sub
+
+EARTH CurriculumIntegrate MBARI data with lesson plans and workshops.
+Animals of the DeepDiscover deep-sea critters, including exclusive footage and info.
+Know Your OceanDive into topics about ocean health and its fascinating features.
+Deep-Sea GuideExplore deep-sea observations with this interactive guide.
+LibraryLearn about the MLML/MBARI Research Library at SJSU.
+More ResourcesAccess more educational resources from the teams at MBARI.
+
+
+
+
+News
+About
+
+
+
+
+ AboutMBARI is a non-profit oceanographic research center advancing marine science and engineering to understand our changing ocean.
+About Sub
+
+Mission & VisionLearn about MBARI’s mission, vision, and values.
+Strategic RoadmapLearn about our strategic priorities for the years ahead.
+Leadership & StaffMeet our staff, leadership, and board of directors.
+CareersFind job openings and postdoc and internship opportunities.
+Connect with UsFollow MBARI on social media and stay updated.
+EventsSee upcoming seminars, lectures, and public events.
+Reports & FinancialsAccess the latest annual reports and financial information.
+HistoryExplore MBARI’s rich history spanning over three decades.
+For MediaGet media-specific information and assets.
+
+
+
+
+
+Publications
+Data
+Directory
+Galleries
+
+
+
+
+
+                    Keyword search                
+
+
+                    Submit                
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+You might be interested in:
+
+
+Job OpeningsFind the latest job openings and join the team.
+InternshipsLearn about our summer internship program.
+Staff DirectoryMeet our leadership and staff.
+Animals of the DeepDiscover deep-sea critters of all types.
+Data & RepositoriesSearch MBARI’s library of data.
+TechnologiesLearn about our technologies.
+
+
+
+ 
+
+
+
+
+
+
+
+
+News
+
+
+New partnership advances DNA-detecting technology to help monitor aquatic health
+
+
+
+News
+11.09.22
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+New partnership advances DNA-detecting technology to help monitor aquatic health
+
+
+
+
+
+
+
+
+
+
+
+
+ A new cooperative agreement between MBARI and the U.S. Geological Survey (USGS) will develop portable robotic DNA samplers capable of independently monitoring the health of rivers and streams. This partnership will help advance detection of invasive species, pathogens, and parasites that cause ecological and economic damage to aquatic systems. These biological threats can wreak havoc on our waterways, threaten commercial and recreational fishing industries, and promote the spread of zoonotic diseases that can impact humans.Researchers with the USGS have also launched a new program, building on earlier work, called Rapid eDNA Assessment and Deployment Initiative and Network, or READI-Net, which tests for DNA fragments in the water known as environmental DNA (eDNA). READI-Net will enhance early detection and rapid-response methods to help resource managers contain and control aquatic biological threats. 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Freshwater environments are critical for ecosystem health and provide valuable resources for food and recreation,” said Adam Sepulveda, a USGS scientist and the project lead. “The USGS has successfully used eDNA methods and robotic samplers as an early-detection strategy for biological threats to important aquatic systems.” For example, the USGS has engaged in eDNA survey campaigns for invasive carp, dreissenid mussels, round gobies, and Burmese pythons in water basins across the country.Robotic samplers can help researchers search for hard-to-find organisms by detecting their DNA in the water. The current MBARI-designed sampler, called the Environmental Sample Processor (ESP), was built to be a sturdy 181-kilogram (400-pound) machine for use in rugged marine environments. Scientists need a more compact and nimble design for easier deployment in freshwater rivers and streams. As part of the new agreement, MBARI and USGS will design a new robotic eDNA sampler. This device will be smaller and lighter, with an easy-to-use computer to facilitate deployments and wireless connectivity so researchers can control sampling remotely. 
+
+
+
+
+
+
+
+ 
+ MBARI’s Environmental Sample Processor (ESP) can help monitor aquatic health. A new portable eDNA sampler will enable nimble deployments of this technology. Image courtesy of Devin Jones, USGS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“MBARI will design the eDNA samplers to be roughly the size of a microwave oven so they are easily carried and will fit into USGS streamgages for possible deployment across the nation,” said Jim Birch, director of the SURF Center at MBARI. “These new eDNA samplers will provide high-quality data for scientists, leading to effective monitoring for aquatic biological threats.”The eDNA robot will be programmed to take samples frequently, at any time of day, and will collect large amounts of data that must be managed and analyzed. The USGS READI-Net researchers will develop field and laboratory procedures to acquire high-quality data, produce analytical tools to process and validate large volumes of information, and create products for the public and decision-makers, such as resource managers, to easily visualize the results.Funding for this new partnership comes from President Biden’s Bipartisan Infrastructure Law. The Bipartisan Infrastructure Law is advancing scientific innovation through a $510.7 million investment for the USGS, which is supporting integrated mapping and interpretation of mineral resources data, the preservation of data from geochemical samples from the Earth Mapping Resource Initiative (Earth MRI), and a replacement facility for the USGS energy and minerals research center in Boulder, Colorado, as well as other resources for scientistsArticle adapted from a news release from USGS. 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For additional information or images relating to this article, please send an email to pressroom@mbari.org  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+
+
+
+
+Like this? Share it!
+
+Share on
+                        Facebook
+
+
+Share on
+                        Twitter
+
+
+Share on
+                        LinkedIn
+
+
+Share on
+                        Email
+
+
+
+
+
+
+
+
+
+
+MBARI Team
+
+
+
+
+
+ 
+
+
+
+
+
+
+                    Brent Roman                
+
+Software Engineer
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                    Christina Preston                
+
+Research Specialist
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                    James Birch                
+
+Director of the SURF Center
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                    Kevan Yamahara                
+
+ESP Research Specialist
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                    Kevin Gomes                
+
+Information Engineering Group Lead
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                    Nadia Allaf                
+
+Mechatronics Technician
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                    Scott Jensen                
+
+Electrical Engineer
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+More News
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+                    Nimble autonomous robots help researchers explore the ocean, no ship required                
+Behind the Scenes
+
+                    02.09.23                
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+                    MBARI mourns the passing of inaugural Director of Marine Operations, Steve Etchemendy                
+News
+
+                    01.26.23                
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+                    Construction of MBARI’s new flagship research vessel reaches major milestone                
+News
+
+                    11.08.22                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Stay Connected
+
+Receive the latest MBARI News
+
+
+
+
+ 
+Email
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+tumblr
+
+
+
+
+
+
+
+tiktok
+
+
+
+
+
+
+
+youtube
+
+
+
+
+
+
+
+twitter
+
+
+
+
+
+
+
+facebook
+
+
+
+
+
+
+
+linkedin
+
+
+
+
+
+
+
+instagram
+
+
+
+7700 Sandholdt Road, Moss Landing, California  95039
+
+                    © 2023 MBARI
+                   
+                
+Staff Login
+Legal
+
+
+
+
+
+
+Website by Visceral
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
