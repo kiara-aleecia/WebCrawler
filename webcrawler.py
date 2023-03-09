@@ -6,7 +6,7 @@ import urllib
 from urllib import request
 
 def webcrawler():
-    starter_url = "https://www.mbari.org/"
+    starter_url = "https://www.nature.com/articles/44751"
 
     r = requests.get(starter_url)
 
@@ -28,28 +28,45 @@ def webcrawler():
                 f.write(link_str + '\n')
 
     # end of function
+    f.close()
     print("end of crawler")
 
 def webscraper():
     file = open('urls.txt', 'r')
     urls = file.readlines()
     count = 1
+    forbidden = ['harvard', 'copyright', 'subscribe', 'protocolexchange']
 
     # Creates files of all text from all urls
     for url in urls:
-        print(url)
-        html = request.urlopen(url).read().decode('utf8')
-        soup = BeautifulSoup(html)
+        for f in forbidden:
+            if f in url:
+                is_forbidden = True
+                break
+            else:
+                is_forbidden = False
 
-        # kill all script and style elements
-        for script in soup(["script", "style"]):
-            script.extract()  # rip it out
+        if count > 3 and not is_forbidden:
+            print(url)
+            html = request.urlopen(url).read().decode('utf8')
+            soup = BeautifulSoup(html)
 
-        # extract text, writes text to new file
-        text = soup.get_text()
-        newfile = open('url' + str(count) + '.txt', 'w', encoding="utf-8")
-        newfile.writelines(text[:])
+            # kill all script and style elements
+            for script in soup(["script", "style"]):
+                script.extract()  # rip it out
+
+            # extract text, writes text to new file
+            text = soup.get_text()
+            newfile = open('url' + str(count) + '.txt', 'w', encoding="utf-8")
+            newfile.writelines(text[:])
+            newfile.close()
         count += 1
+
+    return count - 1
+
+def cleanup(fileamnt):
+    for i in range(fileamnt):
+        print()
 
 def main():
     webcrawler()
