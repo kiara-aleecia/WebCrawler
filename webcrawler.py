@@ -11,6 +11,8 @@ import urllib
 from urllib import request
 import os
 import re
+from nltk import word_tokenize
+from nltk.corpus import stopwords
 
 '''
 TO DO:
@@ -118,11 +120,40 @@ def cleanup(fileamnt):
         #tokens = nltk.word_tokenize(text)
 
 
+def important_terms(fileamnt):
+    tf_dict = {}
+    idf_dict = {}
+    for i in range(fileamnt):
+        #Gets file ready for extraction
+        curr_file = ('url/url' + i + '.txt') #Replace this with whatever we name the clean files
+        curr_file = re.sub(r'[.?!,:;()\-\n\d]', ' ', curr_file.lower())
+        tokens = word_tokenize(curr_file)
+
+        #Removes stopwords
+        stopwords = set(stopwords.words('english'))
+        tokens = [t for t in tokens if not t in stopwords]
+
+        #Gets term frequencies
+        token_set = set(tokens)
+        tf_dict = {t: tokens.count(t) for t in token_set}
+
+        # normalize tf by number of tokens
+        for t in tf_dict.keys():
+            tf_dict[t] = tf_dict[t] / len(tokens)
+
+        #get idf
+        
+    #get tf-idf for all files
+
+    #Prints top 25-40 words
+
+
 def main():
-    webcrawler()
+    #webcrawler()
     filecount = webscraper()
     print(f"filecount is : {filecount}")
     cleanup(filecount)
+    important_terms(filecount)
 
 # Starts program
 if __name__ == '__main__':
