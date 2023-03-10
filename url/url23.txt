@@ -1,0 +1,638 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Photoreceptor spectral diversity in the retinas of squilloid and lysiosquilloid stomatopod crustaceans | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Go to cart
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+
+Search SpringerLink
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Journal of Comparative Physiology A
+
+
+
+
+
+Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published: April 1993
+
+Photoreceptor spectral diversity in the retinas of squilloid and lysiosquilloid stomatopod crustaceans
+T. W. Cronin1, N. J. Marshall2 & R. L. Caldwell3 
+
+Journal of Comparative Physiology A
+volume 172, pages 339–350 (1993)Cite this article
+
+
+
+
+
+
+103 Accesses
+
+
+31 Citations
+
+
+Metrics details
+
+
+
+
+
+
+
+
+Abstract
+
+
+1.
+We examined the retinas of 2 species of stomatopods in the superfamily Squilloidea, Cloridopsis dubia and Squilla empusa, and 2 species of the super-family Lysiosquilloidea, Coronis scolopendra and Lysiosquilla sulcata, using microspectrophotometry in the visible region of the spectrum.
+
+
+2.
+Retinas of all species included numerous photostable pigments, such as green reflecting pigment, hemocyanin, colored oil droplets, and vesicles. Both lysiosquilloid species also had intrarhabdomal filters within specialized photoreceptors of the midband.
+
+
+3.
+Squilloid species contained a single visual pigment throughout all photoreceptors, with peak absorption at medium wavelengths (near 515nm). Retinas of lysiosquilloids contained a diversity of visual pigments, with estimated λmax values ranging from 397 to 551 nm.
+
+
+4.
+Spectral sensitivity functions were estimated for the lysiosquilloid species based on estimates of visual pigment λnax, photoreceptor dimensions, and specific absorbances of the visual pigments and intrarhabdomal filters. Ommatidia of midband Rows 1 to 4 contained pairs of narrowly tuned spectral receptors, appropriate for spectral discrimination, while ommatidia of midband Rows 5 and 6, and all peripheral ommatidia, had broad spectral sensitivity functions.
+
+
+5.
+Lysiosquilloid stomatopods have retinas that closely resemble those of gonodactyloids both structurally and in their visual pigment diversity. In contrast, squilloids have retinas that are much simpler. These differences appear to be related to the habitats and activity cycles of species belonging to the 3 major superfamilies of stomatopod crustaceans.
+
+
+
+
+This is a preview of subscription content, access via your institution.
+
+
+
+
+Access options
+
+Buy single article
+
+
+Instant access to the full article PDF.
+
+
+USD 39.95
+Price excludes VAT (USA)
+     Tax calculation will be finalised during checkout.
+
+
+
+
+
+
+
+
+
+
+Rent this article via DeepDyve.
+
+
+
+
+
+
+
+Learn more about Institutional subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReferencesBernard GD (1987) Spectral characterization of butterfly L-receptors using extended Dartnall/MacNichol template functions. J Opt Soc Am A4:P123
+                    Google Scholar 
+                Bruno MS, Mote MI, Goldsmith TH (1973) Spectral absorption and sensitivity measurements in single ommatidia of the green crab, Carcinus. J Comp Physiol 82:151–163
+                    Google Scholar 
+                Caldwell RL, Dingle H (1975) Ecology and evolution of agonistic behavior in stomatopods. Naturwissenschaften 62:214–222
+                    Google Scholar 
+                Cavenaugh GM (1956) Formulae and methods of the marine biological laboratory chemical room. Woods Hole, Mass
+                    Google Scholar 
+                Cronin TW (1985) The visual pigment of a stomatopod crustacean, Squilla empusa. J Comp Physiol A 156:679–687
+                    Google Scholar 
+                Cronin TW (1986) Optical design and evolutionary adaptation in crustacean compound eyes. J Crust Biol 6:1–23
+                    Google Scholar 
+                Cronin TW (1989) Application of intracellular optical techniques to the study of stomatopod crustacean vision. J Comp Physiol A 164:737–749
+                    Google Scholar 
+                Cronin TW (1992) Visual rhythms in stomatopod crustaceans observed in the pseudopupil. Biol Bull 182:278–287
+                    Google Scholar 
+                Cronin TW, Forward RB Jr (1988) The visual pigments of crabs I. Spectral properties. J Comp Physiol A 162:463–478
+                    Google Scholar 
+                Cronin TW, Marshall NJ (1989a) A retina with at least ten spectral types of photoreceptors in a stomatopod crustacean. Nature 339:137–140
+                    Google Scholar 
+                Cronin TW, Marshall NJ (1989b) Multiple spectral classes of photoreceptors in the retinas of gonodactyloid stomatopod crustaceans. J Comp Physiol A 166:267–275
+                    Google Scholar 
+                Cronin TW, Marshall NJ, Land MF (1991) Optokinesis in gonodactyloid mantis shrimps (Crustacea; Stomatopoda; Gonodactylidae). J Comp Physiol A 168:233–240
+                    Google Scholar 
+                Cronin TW, Nair JN, Doyle RD, Caldwell RL (1988) Visual tracking of rapidly moving targets by stomatopod crustaceans. J Exp Biol 138:155–179
+                    Google Scholar 
+                Demoll R (1909) Über die Augen und die Augenstielreflexe von Squilla mantis. Zool J, Abt Anat Ontogen Tiere 27:171–212
+                    Google Scholar 
+                Dingle H (1964) A colour polymorphism in Gonodactylus oerstedi Hansen, 1895 (Stomatopoda). Crustaceana 7:236–240
+                    Google Scholar 
+                Dingle H, Caldwell RL (1978) Ecology and morphology of feeding and agonistic behavior in mudflat stomatopods (Squillidae). Biol Bull 155:134–149
+                    Google Scholar 
+                Dingle H, Caldwell RL, Manning RB (1977) Stomatopods of Phuket Island, Thailand. Phuket Mar Biol Center Res Bull 20:1–20
+                    Google Scholar 
+                Exner S (1891) Die Physiologie der facettirten Augen von Krebsen und Insecten. Deuticke, Leipzig Wien — English edition: The physiology of the compound eyes of insects and crustaceans (translated by Hardie RC). Springer, Berlin Heidelberg New York (1989)Froglia C, Giannini S (1989) Field observations on diel rhythms in catchability and feeding of Squilla mantis (L.) (Crustacea, Stomatopoda) in the Adriatic Sea. In: Ferrero EA (ed) Biology of stomatopods. Mucchi, Modena, pp 221–228Goldsmith TH, Cronin TW (1993) The retinoids of seven species of mentis shrimp. Visual Neurosci (in press)Hays D, Goldsmith TH (1969) Microspectrophotometry of the visual pigment of the spider crab Libinia emarginata. Z Vergl Physiol 65:218–232
+                    Google Scholar 
+                Hiller-Adams P, Widder EA, Case JF (1988) The visual pigments of four deep-sea crustacean species. J Comp Physiol A 163:63–72
+                    Google Scholar 
+                Horridge GA (1978) The separation of visual axes in apposition compound eyes. Phil Trans R Soc Lond B 285:1–59
+                    Google Scholar 
+                Kirschfeld K, Franceschini N (1969) Ein Mechanismus zur Steuerung des Lichtflusses in den Rhabdomeren des Komplexauges von Musca. Kybernetik 6:13–22
+                    Google Scholar 
+                Land MF, Marshall NJ, Brownless D, Cronin TW (1990) The eyemovements of the mantis shrimp Odontodactylus scyllarus (Crustacea: Stomatopoda). J Comp Physiol A 167:155–166
+                    Google Scholar 
+                Manning RB (1969) Stomatopod Crustacea of the Western Atlantic. Studies in Tropical Oceanography No. 8, Institute of Marine Sciences, University of Miami, 380 ppManning RB, Reaka ML (1989) Preliminary observations on the biology of Coronis scolopendra at Fort Pierce, Florida. In : Ferrero EA (ed) Biology of stomatopods. Mucchi, Modena, pp 213–219Manning RB, Schiff H, Abbott BC (1984a) Eye structure and the classification of stomatopod Crustacea. Zool Scripta 13:41–44
+                    Google Scholar 
+                Manning RB, Schiff H, Abbott BC (1984b) Cornea shape and surface structure in some stomatopod Crustacea. J Crust Biol 4:502–513
+                    Google Scholar 
+                Marshall NJ (1988) A unique colour and polarisation vision system in mantis shrimps. Nature 333:557–560
+                    Google Scholar 
+                Marshall NJ, Land MF, King CA, Cronin TW (1991a) The compound eyes of mantis shrimps (Crustacea, Hoplocarida, Stomatopoda). I. Compound eye structure: The detection of polarised light. Phil Trans R Soc Lond B 334:33–56
+                    Google Scholar 
+                Marshall NJ, Land MF, King CA, Cronin TW (1991b) The compound eyes of mantis shrimps (Crustacea, Hoplocarida, Stomatopoda). II. Colour pigments in the eyes of Stomatopod crustaceans: Polychromatic vision by serial and lateral filtering. Phil Trans R Soc Lond B 334:57–84
+                    Google Scholar 
+                Matsuura S, Hamano T (1984) Selection for artificial burrows by the Japanese mantis shrimp with some notes on natural burrows. Bull J Soc Sci Fish 50:1963–1968
+                    Google Scholar 
+                Myers AC (1979) Summer and winter burrows of a mantis shrimp, Squilla empusa, in Narragansett Bay, Rhode Island (U.S.A.). Estuarine Coastal Marine Sci 8:87–98
+                    Google Scholar 
+                Reaka ML, Manning RB (1987) Stomatopod Crustacea of Enewetak Atoll. In: Devaney DM, Reese ES, Burch BL, Helfrich P (eds) The natural history of Eniwetak Atoll, vol 2. Technical Information Center, U.S. Dept Energy, Washington DC, pp 181–190
+                    Google Scholar 
+                Schiff H (1963) Dim light vision of Squilla mantis L. Am J Physiol 205:927–940
+                    Google Scholar 
+                Schiff H, Manning RB, Abbott BC (1986) Structure and optics of ommatidia from eyes of stomatopod crustaceans from different luminous habitats. Biol Bull 170:461–480
+                    Google Scholar 
+                Schönenberger N (1977) The fine structure of the compound eye of Squilla mantis (Crustacea, Stomatopoda). Cell Tissue Res 176:205–233
+                    Google Scholar 
+                Schönenberger N, Cox JA, Gabbiani G (1980) Evidence for hemocyanin formation in the compound eye of Squilla mantis (Crustacea, Stomatopoda). Cell Tissue Res 176:205–233
+                    Google Scholar 
+                Snyder AW, Menzel R, Laughlin SB (1973) Structure and function of the fused rhabdom. J Comp Physiol 87:99–135
+                    Google Scholar 
+                Trevino DL, Larimer JL (1969) The spectral sensitivity and flicker response of the eye of the stomatopod Squilla empusa Say. Comp Biochem Physiol 31:987–991
+                    Google Scholar 
+                Zeil J, Nalbach G, Nalbach H-O (1986) Eyes, eye stalks and the visual world of semi-terrestrial crabs. J Comp Physiol A 159:801–811
+                    Google Scholar 
+                Download referencesAuthor informationAuthors and AffiliationsDepartment of Biological Sciences, University of Maryland Baltimore County, 21228, Baltimore, MD, USAT. W. CroninSchool of Biological Sciences, University of Sussex, BN1 9QG, Falmer, Brighton, UKN. J. MarshallDepartment of Integrative Biology, University of California, 94720, Berkeley, CA, USAR. L. CaldwellAuthorsT. W. CroninView author publicationsYou can also search for this author in
+                        PubMed Google ScholarN. J. MarshallView author publicationsYou can also search for this author in
+                        PubMed Google ScholarR. L. CaldwellView author publicationsYou can also search for this author in
+                        PubMed Google ScholarRights and permissionsReprints and PermissionsAbout this articleCite this articleCronin, T.W., Marshall, N.J. & Caldwell, R.L. Photoreceptor spectral diversity in the retinas of squilloid and lysiosquilloid stomatopod crustaceans.
+                    J Comp Physiol A 172, 339–350 (1993). https://doi.org/10.1007/BF00216616Download citationAccepted: 26 November 1992Issue Date: April 1993DOI: https://doi.org/10.1007/BF00216616Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        Key wordsPhotoreceptorRetinaSpectral sensitivityStomatopodVisual ecologyVisual pigment
+
+
+
+
+
+
+
+Access via your institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Access options
+
+Buy single article
+
+
+Instant access to the full article PDF.
+
+
+USD 39.95
+Price excludes VAT (USA)
+     Tax calculation will be finalised during checkout.
+
+
+
+
+
+
+
+
+
+
+Rent this article via DeepDyve.
+
+
+
+
+
+
+
+Learn more about Institutional subscriptions
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Over 10 million scientific documents at your fingertips
+
+Switch Edition
+
+
+Academic Edition
+
+
+Corporate Edition
+
+
+
+
+
+
+
+Home
+Impressum
+Legal information
+Privacy statement
+California Privacy Statement
+How we use cookies
+Manage cookies/Do not sell my data
+Accessibility
+FAQ
+Contact us
+Affiliate program
+
+
+
+Not logged in
+ - 66.253.176.25
+
+
+            Not affiliated
+        
+
+
+Springer Nature
+
+
+
+
+© 2023 Springer Nature Switzerland AG. Part of Springer Nature.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

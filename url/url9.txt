@@ -1,0 +1,1309 @@
+
+
+
+Light organ photosensitivity in deep-sea shrimp may suggest a novel role in counterillumination | Scientific Reports
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+            and JavaScript.
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View all journals
+
+
+
+
+Search
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+
+About the journal
+
+
+
+
+Publish with us
+
+
+
+
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+
+
+
+nature
+
+
+
+scientific reports
+
+
+
+articles
+
+
+
+
+article
+
+
+
+
+
+
+
+
+
+                        Light organ photosensitivity in deep-sea shrimp may suggest a novel role in counterillumination
+                    
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+                Your article has downloaded
+            
+
+
+Similar articles being viewed by others
+
+
+
+
+
+Slider with three articles shown per slide. Use the Previous and Next buttons to navigate the slides or the slide controller buttons at the end to navigate through each slide.
+
+
+
+
+
+
+
+
+Cerebral photoreception in mantis shrimp
+26 June 2018
+
+Mary W. Donohue, Jonathan H. Cohen & Thomas W. Cronin
+
+
+
+
+
+
+
+
+
+
+Seasonal variation in UVA light drives hormonal and behavioural changes in a marine annelid via a ciliary opsin
+11 January 2021
+
+Vinoth Babu Veedin Rajan, N. Sören Häfker, … Kristin Tessmar-Raible
+
+
+
+
+
+
+
+
+
+
+From extraocular photoreception to pigment movement regulation: a new control mechanism of the lanternshark luminescence
+23 June 2020
+
+Laurent Duchatelet, Tomohiro Sugihara, … Jérôme Mallefet
+
+
+
+
+
+
+
+
+
+
+A detailed investigation of the visual system and visual ecology of the Barrier Reef anemonefish, Amphiprion akindynos
+11 November 2019
+
+Sara M. Stieb, Fanny de Busserolles, … N. Justin Marshall
+
+
+
+
+
+
+
+
+
+
+Adaptive photoperiod interpretation modulates phenological timing in Atlantic salmon
+14 February 2023
+
+Tina Oldham, Frode Oppedal, … Tom Johnny Hansen
+
+
+
+
+
+
+
+
+
+
+Daytime eyeshine contributes to pupil camouflage in a cryptobenthic marine fish
+09 May 2018
+
+Matteo Santon, Pierre-Paul Bitton, … Nico K. Michiels
+
+
+
+
+
+
+
+
+
+
+Salamanders and other amphibians are aglow with biofluorescence
+27 February 2020
+
+Jennifer Y. Lamb & Matthew P. Davis
+
+
+
+
+
+
+
+
+
+
+Identification of a dual orange/far-red and blue light photoreceptor from an oceanic green picoplankton
+16 June 2021
+
+Yuko Makita, Shigekatsu Suzuki, … Minami Matsui
+
+
+
+
+
+
+
+
+
+
+Pelagic organisms avoid white, blue, and red artificial light from scientific instruments
+22 July 2021
+
+Maxime Geoffroy, Tom Langbehn, … Jørgen Berge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+Article
+
+Open Access
+
+Published: 11 March 2020
+
+Light organ photosensitivity in deep-sea shrimp may suggest a novel role in counterillumination
+Heather D. Bracken-Grissom1, Danielle M. DeLeo1, Megan L. Porter2, Tom Iwanicki2, Jamie Sickles3 & …Tamara M. Frank3 Show authors
+
+Scientific Reports
+volume 10, Article number: 4485 (2020)
+            Cite this article
+
+
+
+
+3708 Accesses
+
+
+9 Citations
+
+
+105 Altmetric
+
+
+Metrics details
+
+
+
+
+
+Subjects
+
+EvolutionZoology
+
+
+
+
+
+
+
+
+An Author Correction to this article was published on 15 May 2020
+
+
+
+
+
+
+
+This article has been updated
+
+
+
+AbstractExtraocular photoreception, the ability to detect and respond to light outside of the eye, has not been previously described in deep-sea invertebrates. Here, we investigate photosensitivity in the bioluminescent light organs (photophores) of deep-sea shrimp, an autogenic system in which the organism possesses the substrates and enzymes to produce light. Through the integration of transcriptomics, in situ hybridization and immunohistochemistry we find evidence for the expression of opsins and phototransduction genes known to play a role in light detection in most animals. Subsequent shipboard light exposure experiments showed ultrastructural changes in the photophore similar to those seen in crustacean eyes, providing further evidence that photophores are light sensitive. In many deep-sea species, it has long been documented that photophores emit light to aid in counterillumination – a dynamic form of camouflage that requires adjusting the organ’s light intensity to “hide” their silhouettes from predators below. However, it remains a mystery how animals fine-tune their photophore luminescence to match the intensity of downwelling light. Photophore photosensitivity allows us to reconsider the organ’s role in counterillumination - not only in light emission but also light detection and regulation.
+
+
+
+IntroductionPhotoreceptor cells inside the complex eyes of animals are responsible for light detection and subsequent signaling cascades linked to vision. Though light detection in animals is typically associated with ocular photoreceptors, the ability to detect and respond to light can also occur in extraocular tissues and structures1. Extraocular photoreception has been documented across a range of structures and taxa, including the dermal chromatophores of cephalopods and fish, tube feet of echinoderms, pineal organs in fish and the central nervous systems of arthropods2,3,4,5,6. Despite the occurrence across diverse metazoans, knowledge regarding the functionality of extraocular photoreceptors remains limited.Bioluminescent light organs, called photophores, provide a unique opportunity to study extraocular photosensitivity, as evidence suggests these structures not only emit light but can also detect it7. Photophores are complex organs composed of bioluminescent cells (photocytes), and sometimes pigments, reflectors, and filtering structures8. They can be divided into two types: bacterial or autogenic, where the light is produced by either symbiotic bacteria living within the structure or by the animal itself. In some species, photophores assist in a form of camouflage known as counterillumination. During this process, photophore emissions mimic the downwelling light blocked by the animal’s body, thereby camouflaging the animal’s profile that would otherwise be detectable to predators below9,10.Deep-sea shrimp of the family Oplophoridae possess autogenic photophores in three (Systellaspis, Oplophorus and Janicella) of the ten genera11. Within these three genera, species vertically migrate into shallower waters where counterillumination would be a useful mechanism for survival. The light organs in these species are located across the entire length of the shrimp’s body and appendages8. Depending on the location of the photophores, they vary slightly in structure, ranging from an individual unit consisting of a single photocyte (ex. 3rd maxilliped photophores) to dense clusters of photocytes (ex. pleopod photophores)8 (Fig. 1). Both types contain similar underlying components including light-emitting cells (photocytes), paracrystalline bodies, reflecting pigment cells, and carotenoid pigment cells (Fig. 1). In some species, the highest densities of photophores are located ventrally along the cephalothorax and abdomen, presumably to aid in counterillumination. However, photophores are not restricted to the undersides of the shrimp and can commonly be found both dorsally and laterally along the entire length of the carapace and tail fan. More intriguingly, they can present themselves as conspicuous streaks or high-density clusters along the dorsal and lateral regions of the eyes and/or the eyestalks (per observation).Figure 1Lateral view of Janicella spinicauda (A. Milne-Edwards, 1883). (A) Dermal photophores (red dots) along the pleopod (inset, left) and maxilliped (inset, right) are expanded to illustrate the internal structures. A detailed description on the ultrastructural differences between maxilliped and pleopod photophores can be found in8. Light micrographs of pleopod photophores (B) and maxilliped photophores (C) are provided for context. Photo credit: Danté Fenolio.Full size imageAlthough counterillumination has been experimentally demonstrated in vertically-migrating shrimp12 and other marine species13,14, it remains a mystery as to how animals fine-tune their photophore luminescence to match the intensity of downwelling light. As animals vertically migrate through the water column or as light intensity changes with photic period, the control of photophore emissions for effective camouflage is crucial. This fine-tuning of counterillumination has been experimentally shown in deep-sea shrimp, where the shrimp can alter the intensity, angle and spectral distribution of the light emitted by the photophore15. Increased visual sensitivity of photophore-bearing shrimp has been suggested as a possible mechanism for emission matching16, however anatomical investigations of the eyes and light absorption models refute this hypothesis17. Here, we test for extraocular photosensitivity in the bioluminescent light organs of deep-sea shrimp and find compelling evidence for light sensitivity through three independent lines of research. Photophore photosensitivity allows us to reconsider the organ’s role in counterillumination - not only in light emission but also light detection and regulation.ResultsIn this study, we use transcriptomics, in situ hybridization, immunohistochemistry and shipboard light-exposure experiments to test photosensitivity in the autogenic light organs of Janicella spinicauda. Live specimens were collected without exposure to light aboard the RV Walton Smith from the Florida Straits. Our first approach used RNA sequencing (RNAseq) and phylogenetic methods to search for opsins and phototransduction genes in the photophores, both of which are known to play a role in light detection in most animals18,19. Our second approach incorporated in situ hybridization and immunohistochemistry methods to investigate tissue-specific expression of the opsin and phototransduction genes identified in the RNAseq studies. Lastly, we used transmission electron microscopy to determine if changes occurred in specific organelles, present in photophores and known to be light sensitive in photoreceptors, in response to dim and damaging levels of light exposure.RNAseqAn average of 29.3 M reads were generated per sample. These data are available on the NCBI’s Sequence Read Archive database under Bioproject ID: PRJNA521050. The quality assessment of the tissue-specific de novo transcriptomes revealed 140,357 and 201,159 contigs with a mean length of approximately 617 and 782 base pairs (bp) for the eye and photophore assemblies, respectively (Supplementary Table 1). N50 statistics to evaluate assembly contiguity were based on the longest isoform per putative gene and were 908 bp (eye) and 1356 bp (photophore). For the eye reference assembly 69.5% of universal single-copy arthropod orthologs were identified (Complete [C]:61%, Single [S]:51.1%, Duplicated [D]:9.9%, Fragmented [F]:8.5%, Missing [M]:30.5%, n:1066) compared to 84.7% identified in the photophore assembly (C:78.8%, S:61.6%, D:17.2%, F:5.9%, M:15.3%, n:1066). The BUSCO scores reflect the specificity of the targeted tissue-specific transcriptomes, though they indicate relatively high-quality assemblies. It is possible a portion of missing BUSCOs is a result of divergent or complex gene structures20 and/ or technical limitations (i.e., gene prediction), which were shown to inflate proportions of fragmented or missing BUSCOS for large genomes. Given the large estimated genome size for crustaceans this may also be a contributing factor.Phylogenetic analyses of the J. spinicauda photophore transcriptome revealed visual opsins belonging to two medium-wavelength sensitive clades (MWS1, MWS2) and one long-wave sensitive clade (LWS2) (Fig. 2, Supplementary Fig. 1). Nearly identical opsins (=97–100% protein similarity) were recovered from the eye transcriptome belonging to the MWS1, MWS2, and LWS2 clades, as well as a short-wavelength sensitive clade (SWS2) comprising putative ultraviolet (UV) shifted opsins. LWS2 expression was highest across both tissue types. In the photophores, LWS2 expression was 6.2X greater than MWS2 expression and 11.3X greater than MWS1 expression. These expression differences were even more prominent in the eyes (see Supplementary Table 2). Structural amino acid alignments of photophore and eye opsins revealed conserved elements characteristic of rhabdomeric opsins (r-opsins, Supplementary Fig. 2). These included the 7 transmembrane domains, two conserved Cys residues, a conserved Lys residue critical for Schiff base formation with the chromophore, an amino acid triplet similar to the one known to couple to G-alphaq (HP(R/K)) and the “R(E/D)QAKKMN” sequence conserved among arthropod opsins (Supplementary Fig. 2). Phototransduction pathway analyses of the photophore assembly also identified major pathway components including the r-opsins, which initiate the signaling cascade, pathway regulators such as Gq-proteins, and the cascade terminators- retinal degeneration (rdg) and arrestin (Arr) (Table 1). These same genes were recovered from the eye assembly along with the calcium ion (Ca2+) channel- transient receptor potential (trp). With the exception of Phospholipase C (PLC), PIA phototransduction pathway annotations for the photophore and eye transcriptomes correspond to the same genes.Figure 2Phylogenetic opsin tree reconstruction comprising 325 rhabdomeric opsins (r-opsins) and closely related melanopsins/arthropsins. Newly curated r-opsins from the J. spinicauda photophore (blue oval) and eye (orange oval) transcriptomes were aligned with reference opsin datasets18,50 comprising visual opsins across a range of measured spectral sensitivities as well as non-visual opsins and related G-protein coupled receptors (GPCR). The putative spectral sensitivities of the r-opsin clades (SWS/UV = short wavelength; MWS = mid-wavelength; LWS = long wavelength) were inferred from these datasets. Significant triplicate bootstrap support is indicated by red circles (SH-aLRT >80, aBayes >0.95 and UFBoot >95) and significant duplicate bootstrap support is indicated by white circles (SH-aLRT >80 or UFBoot >95, and aBayes >0.95). Refer to Supplementary Fig. 1 phylogeny for more information. Photo credit: ©DantéFenolio. A recreation of J. spinicauda emitting light during counterillumination.Full size imageTable 1 Phototransduction pathway genes, annotated with Phylogenetically Informed Annotation (diamond), from J. spinicauda eye and photophore transcriptomes.Full size tableFluorescent in situ hybridization and immunohistochemistryIn situ hybridization and immunohistochemistry methods were used in the photophores to investigate tissue-specific expression of the photophore LWS2 opsin and Gq-alpha proteins known from the phototransduction cascade. LWS2 opsin expression and G-protein localization corroborated findings from the RNAseq analyses. LWS2 opsin labelling was detected in the maxilliped photophore cell bodies (Fig. 3A) indicating expression localized specifically to the photophores and not the surrounding tissue. The possibility of endogenous autofluorescence was ruled out by imaging unlabeled photophores. Labeling by anti-Gq was present in both the maxilliped photophores (Fig. 3B) and pleopod photophores (Fig. 3C). The anti-Gq signal in pleopods and maxilliped photophores was most intense near the apex of each structure, the region where luminescent granules of the paracrystalline bodies are located. The DAPI stain labeled the photocyte nuclei, which are located near the cuticle. Controls for labelling experiments showed low background (ISH) or no non-specific binding of the secondary antibody (IHC) (Supplementary Fig. S3).Figure 3Expression of LWS2 opsin and Gq proteins in maxilliped (whole mount) and pleopod (100 μm thick sections) photophores of J. spinicauda. (A) LWS mRNA labeling is observed throughout the maxilliped photophore cell bodies. (B,C) Gq protein is localized in the apex of photophore cells in the proximity of the luminescent paracrystalline bodies. Gq protein (magenta) and LWS mRNA (red) are labeled with Cy5; cell nuclei (green) are labeled with diamidino-2-phenylidole (DAPI); tissue autofluorescence is also present (diffuse red and green). Single arrowheads point to apex of individual photocytes containing paracrystalline bodies and double arrowheads point to photocyte nuclei in the distal region of photophores. Individual photocytes are outlined with dashed white line (A–C). (di distal, do dorsal, la lateral, c cuticle). Note: Dorsal oriented downward. Refer to Fig. 1. for photophore structure and light microscopy images.Full size imageShipboard light exposure experimentsRNAseq and localization studies indicate the presence and expression of light sensitive proteins in photophores. Therefore, shipboard light “dim” and “bright” exposure experiments were conducted on live J. spinicauda to further investigate photophore photosensitivity. Ultrastructure changes were observed in the basal cytoplasm, pigment sheath cells, endoplasmic reticulum (ER), and Golgi apparatus organelles of the photophore, with greater changes resulting from brighter light exposures, similar to what has been observed in the eyes of crustaceans in response to varying levels of light21,22. Exposure to the bright light induced significant expansions of both the basal cytoplasm and vacuole size compared to dark controls (Fig. 4A–C, Supplementary Table 3). Under exposure to dim light, there was a small decrease in the area of basal cytoplasm compared to dark controls, as well as a statistically significant decrease in the size of the vacuoles (Fig. 4B, Supplementary Table 3). Both bright light and dim light exposure elicited a conformational change in the photophore sheath cells to a more rounded, compact arrangement, relative to the linear morphology of unexposed control cells (Fig. 4D–F). The increase in sheath cell width under bright light was almost twice as much as under dim light, but both were significantly wider than in the dark controls (Supplementary Table 3). Lastly, Golgi bodies and ER were present as discrete structures without vacuolization in control photophore tissues; upon exposure to dim light, small vacuoles are present in the Golgi, and upon exposure to bright light, both organelles increased in size and abundance, and the Golgi bodies were filled with vesicles (Fig. 5A–F).Figure 4Shipboard light-exposure experiments on J. spinicauda photophores. Dark control (A), dim light exposed (B), and bright light exposed (C) photophore basal cytoplasm and vacuoles (outlined in pink). Tissue exposed to bright light exhibited a significant increase in basal cytoplasm and vacuole areas. However, dim light exposed tissue did not have a significant increase in basal cytoplasm area and had significantly less vacuolated area compared to the controls. Dorsal sheath cells (outlined in pink) in control (D), dim light exposed (E), and bright light exposed (F) photophores. Sheath cells from bright and dim light exposed tissues were significantly wider than those from control tissues. (C cuticle, V vacuole, BC basal cytoplasm, PN photocyte nuclei, SC pigment sheath cell).Full size imageFigure 5Shipboard light-exposure experiments on J. spinicauda photophores. Golgi bodies (outlined in pink) in control (A), dim light exposed (B), and bright light exposed (C) photophores. Golgi bodies had no vesiculation in the controls, were moderately vesiculated at Golgi ends (red arrow) in dim light exposed tissue* and were highly vesiculated in bright light exposed tissue. Endoplasmic reticulum (ER) (pink shading) in control (D), dim light exposed (E), and bright light exposed (F) photophores. ER had a dense arrangement and was less defined in the controls, was compact but well-defined in dim light exposed tissue, and was fragmented and loosely arranged in bright light exposed tissue. (PN Photocyte nuclei, G Golgi, V vesicle, SC sheath cell) *Images of Golgi bodies from tissue exposed to dim light for 60 minutes were not suitable for publication, and therefore an image from tissue exposed to dim light for 30 minutes is used to represent Golgi, as the size and appearance is consistent between timed trials.Full size imageDiscussionLight organs, such as photophores, can be divided into two types: bacterial and autogenic15,23. Unlike the autogenic system examined here, bacterial light organs rely on symbionts to produce luminescence. Light detection has been demonstrated in the complex bacterial light organs of the squid, Euprymna scolopes, suggesting this may aid the squid in managing symbiont load and/or in comparing ambient light and symbiont light emission during counterillumination7. Here, we used a multi-disciplinary approach to provide evidence that autogenic light organs of deep-shrimp also have light-detecting abilities. Our study is similar to that of Tong et al.7 in that we are finding a long-wavelength sensitive opsin (LWS2) in the photophore that is nearly identical to those found in the eye. However, two additional opsins with putative sensitivity to mid-wavelength light (MWS1, MWS2) were also detected in shrimp photophores, which could have implications in sensing their own emissions during counterillumination (see more discussion below). Similar to the LWS opsin, these MWS opsins are identical to those in the eyes. This high diversity of visual opsins in the photophore was unexpected, though their classification is supported by multiple lines of evidence including putative functional identifications using Phylogenetically Informed Annotation (see Methods, Fig. 2, Supplementary Fig. 1) and the presence of conserved amino acid motifs characteristic of visual r-opsins (Supplementary Fig. 2). Further, all major genes involved in phototransduction, the visual pathway in which light is converted to electrical signals in photosensitive tissues, were recovered (Table 1), with the exception of rdgB and trp. The absence of rdgB and trp from the photophore transcriptome may be due to the lack of expression at the time of sampling or fundamental differences in phototransduction signaling pathways, as they are not currently known for deep-sea shrimp. Though the presence of these genes does not confirm functionality- gene localization, expression and shipboard experimentation lend further support. Localization studies confirmed visual opsins (LWS) and phototransduction proteins (Gq) are expressed within the photophores and not in surrounding tissues (Fig. 3, Supplementary Fig. 3), while shipboard experimental exposures revealed light-induced changes to photophore ultrastructure (Figs. 4, 5) similar to what has been observed in photoreceptor tissue. The increased vacuolization evident in the basal cytoplasm of photophores exposed to bright light, together with smaller effects in dim light exposed tissue, was similar to what was seen in previous studies of the eyes of the rock lobster Jasus edwardsii24, the spider crab Libinia emarginata25, and the isopod Cirolana borealis21 (Fig. 4A–C). Moreover, these photophores contain carotenoid and ommochrome pigments in sheath cells8, the same pigments that are present in crustacean eyes. In crustacean eyes, these pigments migrate in response to light as a mechanism to protect retinular cells, the site of phototransduction26. In the current study, photophore pigment cell migration is indicated by light-induced changes in sheath cell morphology. Light exposure elicited a conformational change in the photophore sheath cells to a more rounded, compact arrangement, with the effects of bright light substantially greater than those of dim light. This suggests the onset of light triggers the photophore dorsal sheath cells to cluster in proximal regions to shield photosensitive structures, with greater effects due to bright light, as one would expect in photosensitive tissue. Lastly, both the number and size of the Golgi bodies increased in response to bright light, and these structures were severely vesiculated (Fig. 5A–C). This is similar to what has been described in photoreceptors from dim light environments. Golgi bodies are present in the light sensitive structures of crustacean eyes26,27,28 and while increased numbers of Golgi bodies are associated with normal membrane turnover processes21,29,30,31, the increase in abundance, size, and vesiculation in response to light is associated with degeneration produced by exposure to damaging light intensities21. Findings from shipboard experiments, combined with transcriptomic, gene expression and localization results provide compelling evidence that autogenic light organs of invertebrates play a role in light detection. Our study raises the exciting possibility that light organ photosensitivity is ubiquitous across diverse taxa and should be investigated in other bioluminescent taxa. Because light organs can be found within several lineages across the animal Tree of Life7,23, results from this study have the potential to reach far beyond our model system.It has long been known that, in some species, photophores play a critical role in counterillumination as the structures responsible for the emission of light10,12. However, very little is known about the mechanism by which counterilluminating animals can fine-tune their emissions to match the intensity of downwelling light. Photophore-bearing shrimp, such as J. spinicauda, are known to have increased visual sensitivities (i.e., blue-green and near-UV visual pigments) when compared to non-photophore bearing oplophorids16,32. It has been suggested that this increase in visual sensitivity would allow for contrast enhancement and may aid in fine-tuning photophore luminescence16. Gaten, et al.17 argued, for this to be the case, rhabdoms in the dorsal part of the eye would need to be structurally modified to be efficient at detecting the contrast between downwelling light and photophore emissions17. Their model, which measured light absorption across the dorsal and ventral regions of oplophorid eyes, showed that the dorsal eye retained the structure seen in shallow-water shrimp (high resolution and sensitivity to downwelling light) and only the ventral eye was modified for enhanced contrast17,33. They concluded oplophorid visual systems are likely not responsible for photophore emission matching17,33 and alternative mechanisms should be explored.With evidence for light organ photosensitivity and their positioning across both the eyes/eyestalks and length of the body, it is possible photophores are playing a larger role in counterillumination than previously thought. Light sensitivity may allow adjacent photophores to detect their own emissions, and the diversity of putative opsins recovered in the photophore (LWS2, MWS1, MWS2) suggests a possible mechanism for enhanced contrast detection to discriminate between photophore emissions and background light17,34. It is less likely, but still plausible, that the more dorsally located eye, eyestalk, and body photophores are working in conjunction with the eyes to detect downwelling light during vertical migrations. Past investigations in lantern fish have discovered eye photophores are oriented and emit light toward the eye to potentially aid in a feedback mechanism to regulate light output35. Whether a similar system exists in deep-sea shrimp remains unknown. Here, we suggest the most probable scenario for emission-matching involves the visual system (eyes) working in conjunction with the light-sensitive photophores to detect and mimic downwelling light, although the exact mechanisms for this feedback loop are still to be discovered. If photophores are able to detect their own emissions, coupled with eyes that are dorsally adapted to detect downwelling light17,33, this provides a compelling framework to further explore how animals fine-tune counterillumination. Future studies that target the neural connections of the photophore and eyes alongside behavioral and physiological studies could “illuminate” the larger role photophores play in the deep sea.Materials and MethodsThe study of photophore photosensitivity in deep-sea species requires that the animals be protected from damaging surface light32,36 and warm water temperatures37. In this study, live specimens of Janicella spinicauda, a mesopelagic (200–1000 m) crustacean with cuticular photophores, were collected aboard the R/V Walton Smith using a light-tight, thermally insulated cod-end that could be closed at depth32, sorted using dim red light, and maintained at temperatures between 9–10 °C inside Koolatrons. Janicella spinicauda has a vertical distribution that range from ~100–1500 m in the Gulf of Mexico and Florida Straits38.RNA-sequencingLive specimens (n = 5) were preserved in RNAlater and stored at −80 °C. Eye and photophore tissue replicates were carefully dissected and homogenized in TRIzol reagent (ThermoFisher Scientific). Total RNA was discretely extracted from tissues and rDNase (Macherey-Nagel) treated following recommendations in39. Libraries were prepared from isolated mRNA using the NEBNext Ultra II Directional RNA Library Prep Kit for Illumina. Barcoded libraries were size selected (Pippin Prep, Sage Science) and sequenced across an Illumina HiSeq 4000 lane. Raw sequencing data was quality assessed using FastQC40 to inform quality and adaptor trimming with Trimmomatic v0.3641. Trimmed reads were processed with Rcorrector42 and BBnorm to error-correct reads and normalize read coverage. Trinity v2.6.543 was used to assemble tissue-specific (eye and photophore) reference assemblies de novo (minimum contig length of 200 bp, k-mer size of 23). Contamination was removed from each assembly using Kraken v1.044 with default parameters and NCBI’s (Refseq) bacteria, archaea and viral databases. Contaminate free assemblies were then passed through BBduk and dedupe (BBTools suite, available at: http://sourceforge.net/projects/bbmap) to remove duplicate transcripts and rRNA. Transcriptome quality and completeness for each tissue-specific reference assembly was assessed using Transrate v1.0.3 and BUSCO v3.0.2 (Benchmarking Universal Single-Copy Orthologs;45,46. BUSCO evaluations were done in an evolutionary context using a reference dataset of orthologous groups (n = 1066) found across Arthropoda20. Voucher specimens (HBG 8616–8620) were ultimately curated in the Florida International Crustacean Collection (FICC).Each tissue-specific transcriptome was analyzed using the Phylogenetically-Informed Annotation (PIA) tool47, modified for command-line use48, which characterizes putative visual opsins and phototransduction pathway genes in a phylogenetic context. Assemblies were run through PIA using a pipeline previously described in Pérez-Moreno et al. 2018. In brief, these tools extract all open-reading frames (ORFs), identify visual genes via BLAST-searches against a database of known visual genes, aligns and subsequently places significant hits into precomputed gene phylogenies to differentiate between false positives and genes of interest. Opsin diversity was further characterized for each tissue-specific assembly. Putative opsin sequences were aligned with PROMALS3D49 using a reference opsin dataset (n = 99618,50,) that comprises visual opsins across a range of spectral sensitivities as well as non-visual opsins and related G-protein coupled receptors (GPCR) (see Supplementary Table 4 for a list of all taxa included). Following model testing, opsin phylogenetic tree reconstruction was done with IQ-TREE51 using an LG general amino acid replacement matrix, under a FreeRate model with 9 rate categories, and empirical base frequencies (LG + R9 + F). Support was assessed in triplicate by (1) a Shimodaira–Hasegawa–like approximate likelihood ratio test (SH-aLRT; 10,000 replicates), (2) an approximate Bayes test and (3) an Ultra-fast bootstrap approximation (UFBoot; 10,000 replicates)52,53,54. False positives aligning with non-visual opsins or outgroups were removed. Visual opsin identity was further confirmed via structural alignments (PROMALS3D) to Bovine rhodopsin (2.8 Å) template (IF88.pdb)55 and the subsequent identification of conserved domains, motifs and residues characteristic of invertebrate r-opsins (as described in56). Structural alignments were visualized with ESPript57 using default parameters and a sequence similarity score based on the percentage of equivalent residues at each position in the alignment (considering the physico-chemical properties of the residues). As invertebrate and vertebrate opsins formed distinct clades, for simplicity the final phylogenetic reconstruction contains only invertebrate visual rhabdomeric opsins or r-opsins and closely related melanopsins (see Supplementary Table 4 for additional information).Opsin expression patterns were further evaluated using the transcript quantification tool Salmon58 and Trinity’s standardized protocol for alignment-free abundance estimation methods59. Briefly, transcript per million (TPM) abundance estimates were generated for all genes using Salmon58. Absolute abundance measures were then generated from the TPM values using Trinity and the Trimmed Mean of M-values (TMM) normalization method60. This widely used normalization method uses a weighted trimmed mean of the log expression ratios to estimate scaling factors between samples. The absolute abundance calculations were done discretely for each tissue type, restricting opsin abundance comparisons to within-tissue.Fluorescent in situ hybridization and immunohistochemistryDark-adapted animals were fixed in 4% Paraformaldehyde in filtered seawater at 4 °C for 12 hours. Following fixation, they were dehydrated in a series of ethanol rinses (i.e., 25%, 50%, 75%, and 100%) then stored in 100% ethanol at −20 °C. Prior to sectioning, animals were rehydrated in ethanol/PBST (1X PBS, 0.25% tween-20) series (i.e., 75%, 50%, 25%). Whole mount pleopods photophores were obtained by sectioning 250 µm thick abdominal sections from shrimp embedded in 1.5% agarose on a Precisionary Compresstome VF-300 (Blade advance speed: 8; oscillation: 3). Whole mount maxilliped photophores were obtained by dissecting the distal segment of the 3rd maxilliped.Based on the small size of the photophore structures and the aforementioned opsin abundance calculations, the LWS2 opsin was chosen for this analysis due to its ubiquitously high expression (see Supplementary Table 2 for expression values). pIDT blue plasmids containing 197 bp locus-specific opsin insert (i.e., LWS2) were transformed into chemically competent Escherichia coli and transformants were selected on LB Agar plates containing 1 mg/ml ampicillin. DNA from overnight cultures of transformed E. coli was isolated using QIAprep Spin Miniprep kit (Qiagen, Catalog number: 27104) following the manufacturer’s protocol. Isolated DNA was sequenced using M13 primers (forward: 5′d[GTAAAACGACGGCCAG]3′; reverse: 5′d[CAGGAAACAGCTATGAC]3′) to confirm the presence of the opsin insert. The percent identity of the 197 bp opsin insert did not exceed 52% compared to SWS opsins and we therefore expect cross-hybridization with opsin orthologs to be low.Sense and anti-sense DIG-labeled riboprobes were prepared using template DNA from cloned bacterial colonies, DIG RNA Labeling Mix (Sigma, Catalog number: 11277073910), T7 and T3 RNA Polymerase (ThermoFisher, Catalog numbers: EP0111 and EP0101, respectively). RNA was synthesized over 4 hours at 37 °C followed by a 30-minute incubation with RNase-free DNase I (ThermoFisher, Catalog number: AM2222). Following the DNase step, free nucleotides were removed using NucAway spin columns (Invitrogen, Catalog number: AM10070). Riboprobes were visualized on a 1% DNA agarose gel and quantified using Qubit RNA BR Assay Kit (Invitrogen, Catalog number: Q10210).Sections and whole mount tissues were treated with proteinase K (10 µg/ml) for 30 minutes. They were fixed in 4% PFA for 20 minutes to ensure the proteinase K was inhibited. Samples were pre-hybridized in hybridization solution (50% formamide, 5X SSC, 0.25% tween-20, 250 µg/ml MRE 600 tRNA, 500 µg/ml Herring Sperm DNA, pH 6.0) for 4 hours at 70 °C in a hybridization oven. The hybridization solution was replaced with fresh solution containing 1 µg/ml of riboprobes and incubated overnight at 70 °C. Remaining riboprobes were rinsed off with a series of high stringency washes (i.e., 5X SSC, 5% formamide, 0.25% tween-20; 2X SSC, 0.25% tween-20; 0.2X SSC, 0.25% tween-20) at 70 °C. Native peroxidase activity was destroyed by incubating in 2% hydrogen peroxide in PBS 0.25% tween-20 (PBST) for 1 hour. Samples were blocked using 10% Normal Goat Serum (NGS) in PBST for 4 hours. Samples were incubated at 4 °C overnight in 1:100 anti-DIG-POD Fab fragments (Sigma, Catalog number: 11207733910) in 10% NGS in PBST. Signal amplification was carried out using Tyramide conjugated to Cy5. Samples were incubated in 1:50 dilution of Tyr-Cy5 for 1 hour in the dark. Finally, samples were mounted on custom 3D printed microscope slides in Aquamount and visualized on an Olympus FV-1000 confocal microscope on an IX-81 inverted microscope.The immunohistochemistry followed, with modification, the protocol previously reported for thick invertebrate tissue sections61,62 using commercially available G-alphaq protein antibodies (henceforth, Gq) recently reported in scallop eyes and non-ocular photosensitive tissues63. The anti-Gq was designed against amino acids QLNLKEYNLV (MilliporeSigma, Catalog number: 371751), which have 100% identity with the J. spinacauda Gq transcript identified from RNAseq. The secondary used was goat anti-rabbit DyLight633 (Thermofisher, Catalog number: 35562). A control was run in parallel lacking primary antibodies to address possible non-specific binding of the anti-Gq antibody. Sections were first incubated in 10% hydrogen peroxide in PBS overnight to remove pigment and reduce tissue autofluorescence. Tissues were permeated with collagenase (0.5 mg/ml) and hyaluronidase (300 µg/ml) solution in PBS for 30 minutes at 37 °C then rinsed in PBS. Unspecific binding sites were blocked with 10% normal goat serum (NGS) in PBS for 2 hours. The 10% NGS solution was replaced with 1% NGS in PBS with a 1:200 dilution of the primary antibody. The primary antibody was incubated on an orbital shaker at 4 °C for 3 days. The tissues were rinsed in 10% NGS and the secondary antibody was added to 1% NGS with a dilution of 1:200. The secondary antibody was incubated on an orbital shaker at 4 °C for 3 days. Samples were rinsed in PBS and mounted on custom 3D printed microscope slides in Shield Mounting Medium with 4′,6-diamidino-2-phenylindole (DAPI) and PG (Electron Microscopy Sciences, Catalog number: 103306-190). Samples were visualized on an Olympus FV-1000 confocal microscope on an IX-81 inverted microscope.Experimental light exposuresFor shipboard light exposure experiments, a control group remained in the dark, while two experimental groups were exposed to different levels of fluorescent room light. Room light was used to negate the possibility that any damage seen would be the result of UV wavelengths and that the light was far enough away from the holding chambers to avoid heat transfer from the light source. The “dim” group was exposed to 60 minutes of dim light at an irradiance of 1 µW cm−2, produced by filtering room light through neutral density filtering material. This light level was the same irradiance that produced bioluminescent responses from a sergestid shrimp under laboratory conditions64, and should therefore be equivalent to ambient light levels experienced by these species on a daily basis. The “bright” group was exposed to 16μW cm−2 of white light (ambient room lighting) for 60 minutes, equivalent to levels that produced ultrastructural damage in deep-sea crustacean photoreceptors21,22,24. After light exposure, the light was extinguished and individuals from experimental and control groups were immediately transferred under dim red light into a 2% glutaraldehyde, 0.05 M sodium cacodylate buffered seawater fixative. Pleopod photophores were dissected, prepared for transmission electron microscopy using standard techniques (stained with osmium tetroxide, dehydrated through a series of ethanol grades, infiltrated with Spurr low viscosity resin), and the ultrastructure of semithin section of the photophores was examined with a JEOL1400X TEM. Comparisons of the size/structure of the Golgi bodies and endoplasmic reticulum between control and light exposed tissue were made. Area of the basal cytoplasm (defined as any cytoplasm located between the cuticle, photocyte, nuclei and distal lateral sheath cells) and vacuoles, as well as the widths of the dorsal sheath cells was quantified using ImageJ software65. Normally distributed data with homogeneous variances were analyzed with ANOVAs; non-parametric data or if variances were not homogeneous were analyzed with a Kruskal-Wallis test.
+
+
+Data availability
+Raw RNA sequencing data used for these analyses are publicly available through NCBI’s Sequence Read Archive (SRA) database (BioProject ID: PRJNA521050). The tissue-specific assemblies and associated metadata are available on the Dryad Digital Repository: https://doi.org/10.5061/dryad.2280gb5nt.
+Change history15 May 2020An amendment to this paper has been published and can be accessed via a link at the top of the paper.ReferencesCronin, T. W. & Johnsen, S. Extraocular, Non-visual, and simple photoreceptors: An introduction to the symposium. Integr. Comp. Biol. 56, 758–763, https://doi.org/10.1093/icb/icw106 (2016).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Kingston, A. C. & Cronin, T. W. Diverse distributions of extraocular opsins in crustaceans, cephalopods, and fish. Integr. Comp. Biol. 56, 820–833, https://doi.org/10.1093/icb/icw022 (2016).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Ramirez, M. D., Speiser, D. I., Pankey, M. S. & Oakley, T. H. Understanding the dermal light sense in the context of integrative photoreceptor cell biology. Vis. Neurosci. 28, 265–279, https://doi.org/10.1017/S0952523811000150 (2011).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Donohue, M. W., Cohen, J. H. & Cronin, T. W. Cerebral photoreception in mantis shrimp. Sci. Rep. 8, 9689, https://doi.org/10.1038/s41598-018-28004-w (2018).Article 
+    ADS 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Oshima, N. Direct reception of light by chromatophores of lower vertebrates. Pigment Cell Res. 14, 312–319 (2001).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Chen, S. C., Robertson, R. M. & Hawryshyn, C. W. Possible involvement of cone opsins in distinct photoresponses of intrinsically photosensitive dermal chromatophores in tilapia Oreochromis niloticus. PLoS One 8, e70342, https://doi.org/10.1371/journal.pone.0070342 (2013).Article 
+    ADS 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Tong, D. et al. Evidence for light perception in a bioluminescent organ. Proc. Natl. Acad. Sci. USA 106, 9836–9841 (2009).Article 
+    ADS 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Nowel, M. S., Shelton, P. M. J. & Herring, P. J. Cuticular photophores of two decapod crustaceans, Oplophorus spinosus and Systellaspis debilis. Biol. Bull. 195, 290–307 (1998).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Herring, P. J. Bioluminescence in decapod Crustacea. J. Mar. Biol. Assoc. UK 56, 1029–1047 (1976).Article 
+    
+                    Google Scholar 
+                Latz, M. I. Physiological mechanisms in the control of bioluminescent countershading in a midwater shrimp. Mar. Freshw. Behav. Physiol. 26, 207–218 (1995).Article 
+    
+                    Google Scholar 
+                Wong, J., Perez-Moreno, J., Chan, T. Y., Frank, T. M. & Bracken-Grissom, H. Phylogenetic and transcriptomic analyses reveal the evolution of bioluminescence and light detection in marine deep-sea shrimps of the family Oplophoridae (Crustacea: Decapoda). Mol. Phylogenet. Evol. 83, 278–292 (2015).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Warner, J. A., Latz, M. & Case, J. F. Cryptic bioluminescence in a midwater shrimp. Science 203, 1109–1110 (1979).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Claes, J. M., Dean, M. N., Nilsson, D.-E., Hart, N. S. & Mallefet, J. A deepwater fish with ‘lightsabers’ – dorsal spine-associated luminescence in a counterilluminating lanternshark. Sci. Rep. 3, 1308 (2013).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Young, R. E. & Roper, C. F. E. Bioluminescent countershading in mid-water animals: evidence from living squid. Science 191, 1046–1048 (1976).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Herring, P. J. Bioluminescence in the Crustacea. J. Crustacean Biol. 5, 557–573 (1985).Article 
+    
+                    Google Scholar 
+                Frank, T. M. & Widder, E. A. Comparative-study of behavioral sensitivity thresholds to near-UV and blue-green light in deep-sea crustaceans. Mar. Biol. 121, 229–235 (1994).Article 
+    
+                    Google Scholar 
+                Gaten, E., Shelton, P. M. J. & Nowel, M. S. Contrast enhancement through structural variations in the rhabdoms of oplophorid shrimps. Marine Biology 145, 499–504 (2004).Article 
+    
+                    Google Scholar 
+                Porter, M. L. et al. Shedding new light on opsin evolution. Proc. R. Soc. B. 279, 3–14, https://doi.org/10.1098/rspb.2011.1819 (2012).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Wald, G. The Molecular Basis of Visual Excitation. (Elsevier Publishing Company, 1967).Waterhouse, R. M., Tegenfeldt, F., Li, J., Zdobnov, E. M. & Kriventseva, E. V. OrthoDB: a hierarchical catalog of animal, fungal and bacterial orthologs. Nucleic Acids Res. 41, D358–D365, https://doi.org/10.1093/Nar/Gks1116 (2013).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Nilsson, M. & Lindstrom, M. Retinal damage and sensitivity loss of a light-sensitive crustacean compound eye (Cirolana borealis): Electron microscopy and electrophysiology. J. Exp. Biol. 107, 277–292 (1983).
+                    Google Scholar 
+                Shelton, P. M. J., Gaten, E. & Chapman, C. J. Light and retinal damage in Nephrops norvegicus (L.) (Crustacea). Proc. R. Soc. B. 226, 217–236 (1985).ADS 
+    
+                    Google Scholar 
+                Herring, P. J. Systematic distribution of bioluminescence in living organisms. J. Biolumin. Chemilumin. 1, 147–163, https://doi.org/10.1002/bio.1170010303 (1987).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Meyer-Rochow, V. B. & Tiang, K. M. The eye of Jasus edwardsii (Crustacea, Decapoda, Palinuridae): Electrophysiology, histology, and behavior. Zoologica 45, 1–61 (1984).
+                    Google Scholar 
+                Eguchi, E. & Waterman, T. H. Changes in retinal fine structure induced in the crab Libinia by light and dark adaptation. Z. Zellforsch. Mikrosk. Anat. 79, 209–229 (1967).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Meyer-Rochow, V. B. In Atlas of Arthropod Sensory Receptors (eds. Eguchi, E. & Tominaga, Y.) (1999).Shelton, P. M. J., Gaten, E. & Chapman, C. J. Accessory pigment distribution and migration in the compound eye of Nephrops norvegicus (L.) (Crustacea: Decapoda). J. Exp. Biol. 98, 185–198 (1986).Article 
+    
+                    Google Scholar 
+                Behrens, M. & Krebs, W. The effect of light-dark adaptation on the ultrastructure of Limulus lateral eye retinular cells. J. Comp. 107, 77–96 (1976).
+                    Google Scholar 
+                Blest, A. D. & Day, W. A. The rhabdomere organization of some nocturnal pisaurid spiders in light and darkness. Philos Trans R Soc Lond B Biol Sci. 283, 1–23 (1978).Article 
+    ADS 
+    
+                    Google Scholar 
+                Blest, A. D., Stowe, S. & Price, D. G. The sources of acid hydrolases for photoreceptor membrane degradation in a grapsid crab. Cell Tissue Res. 205, 229–244 (1980).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Meyer-Rochow, V. B. & Lindstrom, M. Electrophysiological and histological observations on the eye of adult, female Diastylis rathkei (Crustacea, Malacostraca, Cumacea). Biol. Bull. 175, 144–153 (1988).Article 
+    
+                    Google Scholar 
+                Frank, T. M. & Widder, E. A. Comparative study of the spectral sensitivities of mesopelagic crustaceans. J. Comp. Physio. A. 185, 255–265 (1999).Article 
+    
+                    Google Scholar 
+                Gaten, E., Shelton, P. M. J. & Nowel, M. S. Interspecific variations in the morphology and ultrastructure of the rhabdoms of oplophorid shrimps. J. Morphol. 257, 87–95 (2003).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Lythgoe, J. N. Visual pigments and visual range under water. Vision Res. 8, 977–1012 (1968).Article 
+    
+                    Google Scholar 
+                Lawry, J. V. Lantern fish compare downwelling light and bioluminescence. Nature 247, 155–157 (1974).Article 
+    ADS 
+    
+                    Google Scholar 
+                Frank, T. M. & Case, J. F. Visual spectral sensitivities of bioluminescent deep-sea crustaceans. Biol. Bull. 175, 261–273 (1988).Article 
+    
+                    Google Scholar 
+                Meyer-Rochow, V. B. & Eguchi, E. The effects of temperature and light on particles associated with crayfish visual membrane: a freeze-fracture analysis and electrophysiological study. J. Neurocytol. 13, 935–959 (1984).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Felder, D. L. & Camp, D. K. Gulf of Mexico Origin, Waters, and Biota: Volume 1, Biodiversity. Vol. 1 1393 (Texas A&M University Press, 2009).DeLeo, D., Perez-Moreno, J., Vázquez-Miranda, H. & Bracken-Grissom, H. D. RNA profile diversity across Arthropoda: Guidelines, methodological artifacts, and expected outcomes. Biology Methods and Protocols. 3, bpy012 (2018).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Andrews, S. FastQC: a quality control tool for high throughput sequence data. Available online at: http://www.bioinformatics.babraham.ac.uk/projects/fastqc (2010).Bolger, A. M., Lohse, M. & Usadel, B. Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics 30, 2114–2120, https://doi.org/10.1093/bioinformatics/btu170 (2014).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Song, L. & Florea, L. Rcorrector: efficient and accurate error correction for Illumina RNA-seq reads. Gigascience 4, 48, https://doi.org/10.1186/s13742-015-0089-y (2015).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Grabherr, M. G. et al. Full-length transcriptome assembly from RNA-Seq data without a reference genome. Nat. Biotechnol. 29, 644–U130, https://doi.org/10.1038/Nbt.1883 (2011).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Wood, D. E. & Salzberg, S. L. Kraken: ultrafast metagenomic sequence classification using exact alignments. Genome Biol. 15, R46, https://doi.org/10.1186/gb-2014-15-3-r46 (2014).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Simao, F. A., Waterhouse, R. M., Ioannidis, P., Kriventseva, E. V. & Zdobnov, E. M. BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs. Bioinformatics 31, 3210–3212, https://doi.org/10.1093/bioinformatics/btv351 (2015).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Smith-Unna, R., Boursnell, C., Patro, R., Hibberd, J. M. & Kelly, S. TransRate: reference-free quality assessment of de novo transcriptome assemblies. Genome Res. 26, 1134–1144, https://doi.org/10.1101/gr.196469.115 (2016).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Speiser, D. et al. Using Phylogenetically-Informed Annotation (PIA) to search for light-interacting genes in transcriptomes from non-model organisms. BMC Bioinformatics 15, 1–12 (2014).Article 
+    
+                    Google Scholar 
+                Perez-Moreno, J. L., Balazs, G. & Bracken-Grissom, H. D. Transcriptomic and epigenetic insights into the evolution of vision loss in cave-dweling crustaceans. Integr. Comp. Biol. 58, E175–E175 (2018).Article 
+    
+                    Google Scholar 
+                Pei, J. M. & Grishin, N. V. PROMALS3D: Multiple protein sequence alignment enhanced with evolutionary and three-dimensional structural information. Multiple Sequence Alignment Methods 1079, 263–271, https://doi.org/10.1007/978-1-62703-646-7_17 (2014).Article 
+    
+                    Google Scholar 
+                Henze, M. J. & Oakley, T. H. The dynamic evolutionary history of pancrustacean eyes and opsins. Integr. Comp. Biol. 55, 830–842, https://doi.org/10.1093/icb/icv100 (2015).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Nguyen, L. T., Schmidt, H. A., von Haeseler, A. & Minh, B. Q. IQ-TREE: A fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies. Mol. Biol. Evol. 32, 268–274, https://doi.org/10.1093/molbev/msu300 (2015).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Guindon, S. et al. New Algorithms and methods to estimate maximum-likelihood phylogenies: Assessing the performance of PhyML 3.0. Syst. Biol. 59, 307–321, https://doi.org/10.1093/sysbio/syq010 (2010).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Anisimova, M., Gil, M., Dufayard, J. F., Dessimoz, C. & Gascuel, O. Survey of branch support methods demonstrates accuracy, power, and robustness of fast likelihood-based approximation schemes. Syst. Biol. 60, 685–699, https://doi.org/10.1093/sysbio/syr041 (2011).Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Hoang, D. T., Chernomor, O., von Haeseler, A., Minh, B. Q. & Vinh, L. S. UFBoot2: improving the ultrafast bootstrap approximation. Mol. Biol. Evol. 35, 518–522, https://doi.org/10.1093/molbev/msx281 (2018).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Palczewski, K. et al. Crystal structure of rhodopsin: A G protein-coupled receptor. Science 289, 739–745 (2000).Article 
+    ADS 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Katti, C. et al. Opsin co-expression in Limulus photoreceptors: differential regulation by light and a circadian clock. J. Exp. Bio. 213, 2589–2601 (2010).Article 
+    CAS 
+    
+                    Google Scholar 
+                Robert, X. & Gouet, P. Deciphering key features in protein structures with the new ENDscript server. Nucleic Acids Res. 42, 320–324 (2014).Article 
+    
+                    Google Scholar 
+                Patro, R., Duggal, G., Love, M. I., Irizarry, R. A. & Kingsford, C. Salmon provides fast and bias-aware quantification of transcript expression. Nat. Methods 14, 417–419, https://doi.org/10.1038/nmeth.4197 (2017).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Haas, B. J. et al. De novo transcript sequence reconstruction from RNA-seq using the Trinity platform for reference generation and analysis. Nat. Protoc. 8, 1494–1512, https://doi.org/10.1038/nprot.2013.084 (2013).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Robinson, M. D. & Oshlack, A. A scaling normalization method for differential expression analysis of RNA-seq data. Genome Biol. 11, 25 (2010).Article 
+    
+                    Google Scholar 
+                Gonzalez-Bellido, P. T. & Wardill, T. J. Labeling and confocal imaging of neurons in thick invertebrate tissue samples. Cold Spring Harb Protoc 2012, 969–983, https://doi.org/10.1101/pdb.prot069625 (2012).Article 
+    PubMed 
+    
+                    Google Scholar 
+                Wardill, T. J., Gonzalez-Bellido, P. T., Crook, R. J. & Hanlon, R. T. Neural control of tuneable skin iridescence in squid. Proc. Biol. Sci. 279, 4243–4252, https://doi.org/10.1098/rspb.2012.1374 (2012).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Kingston, A. C. N., Chappell, D. R., Miller, H. V., Lee, S. J. & Speiser, D. I. Expression of G proteins in the eyes and parietovisceral ganglion of the bay scallop Argopecten irradians. Biol. Bull. 233, 83–95, https://doi.org/10.1086/694448 (2017).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Latz, M. & Case, J. F. Slow photic and chemical induction of bioluminescence in the midwater shrimp. Sergestes similis Biol. Bull. 182, 391–400 (1992).Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Schneider, C., Rasband, W. & Eliceiri, K. NIH Image to ImageJ: 25 years of image analysis. Nat. Methods 9, 671–675 (2012).Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Download referencesAcknowledgementsWe thank the crew of the R/V Walton Smith for help obtaining the samples in this study, Lori Schweikert for comments on the text, Jorge Pérez Moreno for bioinformatics support, and Alex Kingston and Dan Speiser for advice and help with the immunohistochemistry. This is contribution #178 from the Coastlines and Oceans Division of the Institute of Environment at Florida International University; This work was funded by an NSF grant (DEB-1556059) awarded to H.B.G., M.P. and T.F.Author informationAuthors and AffiliationsDepartment of Biology, Florida International University, North Miami, FL, 33181, USAHeather D. Bracken-Grissom & Danielle M. DeLeoDepartment of Biology, University of Hawai’i at Mānoa, Honolulu, HI, 96822, USAMegan L. Porter & Tom IwanickiDepartment of Biology, Nova Southeastern University, Fort Lauderdale, FL, 33314, USAJamie Sickles & Tamara M. FrankAuthorsHeather D. Bracken-GrissomView author publicationsYou can also search for this author in
+                        PubMed Google ScholarDanielle M. DeLeoView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMegan L. PorterView author publicationsYou can also search for this author in
+                        PubMed Google ScholarTom IwanickiView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJamie SicklesView author publicationsYou can also search for this author in
+                        PubMed Google ScholarTamara M. FrankView author publicationsYou can also search for this author in
+                        PubMed Google ScholarContributionsH.B.G. conceptualized the project; D.D. led all wet lab procedures and analyses related to the RNAseq data collection and analyses; M.P. and T.I. led the expression and localization studies; T.F. and J.S. led the on-ship light exposure experiments. All authors helped with collections of specimens. H.B.G. and D.D. wrote the paper with input from all co-authors.Corresponding authorCorrespondence to
+                Heather D. Bracken-Grissom.Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Additional informationPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Supplementary informationSupplementary information.Rights and permissions
+Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+Reprints and PermissionsAbout this articleCite this articleBracken-Grissom, H.D., DeLeo, D.M., Porter, M.L. et al. Light organ photosensitivity in deep-sea shrimp may suggest a novel role in counterillumination.
+                    Sci Rep 10, 4485 (2020). https://doi.org/10.1038/s41598-020-61284-9Download citationReceived: 21 November 2019Accepted: 30 January 2020Published: 11 March 2020DOI: https://doi.org/10.1038/s41598-020-61284-9Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        
+
+
+
+This article is cited by
+
+
+
+
+
+                                        The diversity of opsins in Lake Baikal amphipods (Amphipoda: Gammaridae)
+                                    
+
+
+Polina DrozdovaAlena KizenkoMaxim Timofeyev
+
+BMC Ecology and Evolution (2021)
+
+
+
+
+
+CommentsBy submitting a comment you agree to abide by our Terms and Community Guidelines. If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.
+
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explore content
+
+
+
+                                    Research articles
+                                
+
+
+
+                                    News & Comment
+                                
+
+
+
+                                    Collections
+                                
+
+
+
+                                    Subjects
+                                
+
+
+
+
+Follow us on Facebook
+                            
+
+
+Follow us on Twitter
+                            
+
+
+Sign up for alerts
+
+
+
+
+RSS feed
+
+
+
+
+
+
+
+About the journal
+
+
+
+                                    About Scientific Reports
+                                
+
+
+
+                                    Open Access
+                                
+
+
+
+                                    Journal policies
+                                
+
+
+
+                                    Guide to referees
+                                
+
+
+
+                                    Calls for Papers
+                                
+
+
+
+                                    Contact
+                                
+
+
+
+                                    Editor's Choice
+                                
+
+
+
+                                    Journal highlights
+                                
+
+
+
+
+
+
+Publish with us
+
+
+
+                                    For authors
+                                
+
+
+
+                                    Language editing services
+                                
+
+
+Submit manuscript
+
+
+
+
+
+
+
+Search
+
+Search articles by subject, keyword or author
+
+
+
+
+
+
+Show results from
+
+All journals
+This journal
+
+
+
+Search
+
+
+
+
+
+
+                Advanced search
+            
+
+Quick links
+
+Explore articles by subject
+Find a job
+Guide to authors
+Editorial policies
+
+
+
+
+
+
+
+
+
+
+                    Scientific Reports (Sci Rep)
+                
+
+ISSN 2045-2322 (online)
+    
+
+
+
+
+
+
+nature.com sitemap
+
+
+
+About Nature Portfolio
+
+About us
+Press releases
+Press office
+Contact us
+
+
+
+Discover content
+
+Journals A-Z
+Articles by subject
+Nano
+
+Protocol Exchange
+Nature Index
+
+
+
+Publishing policies
+
+Nature portfolio policies
+Open access
+
+
+
+Author & Researcher services
+
+Reprints & permissions
+Research data
+Language editing
+Scientific editing
+Nature Masterclasses
+Nature Research Academies
+Research Solutions
+
+
+
+Libraries & institutions
+
+Librarian service & tools
+Librarian portal
+Open research
+Recommend to library
+
+
+
+Advertising & partnerships
+
+Advertising
+Partnerships & Services
+Media kits
+
+Branded
+                        content
+
+
+
+Career development
+
+Nature Careers
+Nature 
+                        Conferences
+Nature 
+                        events
+
+
+
+Regional websites
+
+Nature Africa
+Nature China
+Nature India
+Nature Italy
+Nature Japan
+Nature Korea
+Nature Middle East
+
+
+
+
+
+
+Privacy
+                Policy
+Use
+                of cookies
+
+Manage cookies/Do not sell my data
+                
+
+Legal
+                notice
+Accessibility
+                statement
+Terms & Conditions
+California Privacy Statement
+
+
+
+
+
+
+
+© 2023 Springer Nature Limited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+
+
+
+
+
+Email address
+
+
+Sign up
+
+
+
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+
+
+
+
+
+
+
+
+
+
+Close banner
+
+
+
+
+
+
+Close
+
+
+
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing
+            
+
+
+
+
+
+
+
+
+

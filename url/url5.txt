@@ -1,0 +1,778 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Changes in electrophysiological properties of photoreceptors in Periplaneta americana associated with the loss of screening pigment | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Go to cart
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+
+Search SpringerLink
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Journal of Comparative Physiology A
+
+
+
+
+
+Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+Original Paper
+Published: 20 September 2018
+
+Changes in electrophysiological properties of photoreceptors in Periplaneta americana associated with the loss of screening pigment
+Paulus Saari1, Esa-Ville Immonen1, Joni Kemppainen1, Kyösti Heimonen1, Marianna Zhukovskaya2, Ekaterina Novikova2, Andrew S. French 
+            ORCID: orcid.org/0000-0001-8190-40843, Päivi H. Torkkeli 
+            ORCID: orcid.org/0000-0002-8205-73393, Hongxia Liu3 & …Roman V. Frolov 
+            ORCID: orcid.org/0000-0002-7431-52971 Show authors
+
+Journal of Comparative Physiology A
+volume 204, pages 915–928 (2018)Cite this article
+
+
+
+
+
+
+238 Accesses
+
+
+1 Citations
+
+
+Metrics details
+
+
+
+
+
+
+
+
+AbstractAbsence of screening pigment in insect compound eyes has been linked to visual dysfunction. We investigated how its loss in a white-eyed mutant (W-E) alters the photoreceptor electrophysiological properties, opsin gene expression, and the behavior of the cockroach, Periplaneta americana. Whole-cell patch-clamp recordings of green-sensitive photoreceptors in W-E cockroaches gave reduced membrane capacitance, absolute sensitivity to light, and light-induced currents. Decreased low-pass filtering increased voltage-bump amplitudes in W-E photoreceptors. Intracellular recordings showed that angular sensitivity of W-E photoreceptors had two distinct components: a large narrow component with the same acceptance angle as wild type, plus a relatively small wide component. Information processing was evaluated using Gaussian white-noise modulated light stimulation. In bright light, W-E photoreceptors demonstrated higher signal gain and signal power than wild-type photoreceptors. Expression levels of the primary UV- and green-sensitive opsins were lower and the secondary green-sensitive opsin significantly higher in W-E than in wild-type retinae. In behavioral experiments, W-E cockroaches were significantly less active in dim green light, consistent with the relatively low light sensitivity of their photoreceptors. Overall, these differences can be related to the loss of screening pigment function and to a compensatory decrease in the rhabdomere size in W-E retinae.
+
+This is a preview of subscription content, access via your institution.
+
+
+
+
+Access options
+
+Buy single article
+
+
+Instant access to the full article PDF.
+
+
+USD 39.95
+Price excludes VAT (USA)
+     Tax calculation will be finalised during checkout.
+
+
+
+
+
+
+
+
+
+
+Rent this article via DeepDyve.
+
+
+
+
+
+
+
+Learn more about Institutional subscriptions
+
+
+
+
+
+
+
+
+Fig. 1Fig. 2Fig. 3Fig. 4Fig. 5Fig. 6Fig. 7Fig. 8Fig. 9
+
+
+
+
+
+AbbreviationsCL:
+Constant light
+CD:
+Constant dark
+
+C
+m
+                  :
+Whole-cell membrane capacitance
+IR:
+Information rate
+Kv
+                           :
+Voltage-gated K+ current or conductance
+LIC:
+Light-induced current
+W-E:
+White-eyed
+ReferencesAlawi AA, Jennings V, Grossfield J, Pak WL (1972) Phototransduction mutants of Drosophila melanogaster. In: Arden GB (ed) The visual system: neurophysiology, biophysics, and their clinical applications. Springer US, Boston, pp 1–21. https://doi.org/10.1007/978-1-4684-8231-7_1
+Chapter 
+    
+                    Google Scholar 
+                Arikawa K, Mizuno S, Scholten DGW, Kinoshita M, Seki T, Kitamoto J, Stavenga DG (1999) An ultraviolet absorbing pigment causes a narrow-band violet receptor and a single-peaked green receptor in the eye of the butterfly Papilio. Vis Res 39:1–8. https://doi.org/10.1016/S0042-6989(98)00070-4
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Arikawa K, Pirih P, Stavenga DG (2009) Rhabdom constriction enhances filtering by the red screening pigment in the eye of the Eastern Pale Clouded yellow butterfly, Colias erate (Pieridae). J Exp Biol 212:2057–2064. https://doi.org/10.1242/jeb.030692
+Article 
+    PubMed 
+    
+                    Google Scholar 
+                Borycz J, Borycz JA, Kubow A, Lloyd V, Meinertzhagen IA (2008) Drosophila ABC transporter mutants white, brown and scarlet have altered contents and distribution of biogenic amines in the brain. J Exp Biol 211:3454–3466. https://doi.org/10.1242/jeb.021162
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Butler R, Horridge GA (1973) The electrophysiology of the retina of Periplaneta americana L. J Comp Physiol 83:279–288. https://doi.org/10.1007/bf00693679
+Article 
+    
+                    Google Scholar 
+                French AS, Meisner S, Liu H, Weckstrom M, Torkkeli PH (2015) Transcriptome analysis and RNA interference of cockroach phototransduction indicate three opsins and suggest a major role for TRPL channels. Front Physiol 6:207. https://doi.org/10.3389/fphys.2015.00207
+Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Frolov RV (2016) Current advances in invertebrate vision: insights from patch-clamp studies of photoreceptors in apposition eyes. J Neurophysiol 116:709–723. https://doi.org/10.1152/jn.00288.2016
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Frolov RV, Matsushita A, Arikawa K (2017) Not flying blind: a comparative study of photoreceptor function in flying and non-flying cockroaches. J Exp Biol 220:2335–2344. https://doi.org/10.1242/jeb.159103
+Article 
+    PubMed 
+    
+                    Google Scholar 
+                Frolov RV, Immonen EV, Saari P, Torkkeli PH, Liu H, French AS (2018) Phenotypic plasticity in Periplaneta americana photoreceptors. J Gen Physiol. https://doi.org/10.1085/jgp.201812107
+Article 
+    PubMed 
+    
+                    Google Scholar 
+                Gribakin FG (1988) Photoreceptor optics of the honeybee and its eye colour mutants: the effect of screening pigments on the long-wave subsystem of colour vision. J Comp Physiol A 164:123–140. https://doi.org/10.1007/bf00612726
+Article 
+    
+                    Google Scholar 
+                Gribakin FG, Alekseyev YN, Ukhanov KY (1996) Spectral sensitivity of white-eyed insect mutants in the UV, blue and green. J Photochem Photobiol B 35:13–18. https://doi.org/10.1016/1011-1344(96)07313-7
+Article 
+    CAS 
+    
+                    Google Scholar 
+                Hardie RC, Raghu P (2001) Visual transduction in Drosophila. Nature 413:186–193. https://doi.org/10.1038/3509300235093002
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Heimonen K, Salmela I, Kontiokari P, Weckstrom M (2006) Large functional variability in cockroach photoreceptors: optimization to low light levels. J Neurosci 26:13454–13462. https://doi.org/10.1523/JNEUROSCI.3767-06.2006
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Henze MJ, Dannenhauer K, Kohler M, Labhart T, Gesemann M (2012) Opsin evolution and expression in arthropod compound eyes and ocelli: insights from the cricket Gryllus bimaculatus. BMC Evol Biol 12:163Article 
+    CAS 
+    
+                    Google Scholar 
+                Howard J, Blakeslee B, Laughlin SB (1987) The intracellular pupil mechanism and photoreceptor signal: noise ratios in the fly Lucilia cuprina. Proc Biol Sci 231:415–435. https://doi.org/10.1098/rspb.1987.0053
+Article 
+    CAS 
+    
+                    Google Scholar 
+                Ignatova II, French AS, Frolov RV (2018) Effects of phase correlations in naturalistic stimuli on quantitative information coding by fly photoreceptors. J Neurophysiol. https://doi.org/10.1152/jn.00017.2018
+Article 
+    PubMed 
+    
+                    Google Scholar 
+                Immonen EV, Ignatova I, Gislen A, Warrant E, Vahasoyrinki M, Weckstrom M, Frolov R (2014) Large variation among photoreceptors as the basis of visual flexibility in the common backswimmer. Proc Biol Sci 281. https://doi.org/10.1098/rspb.2014.117720141177
+Immonen EV, French AS, Torkkeli PH, Liu H, Vahasoyrinki M, Frolov RV (2017) EAG channels expressed in microvillar photoreceptors are unsuited to diurnal vision. J Physiol. https://doi.org/10.1113/JP273612
+Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Jefferson GT (1958) A white-eyed mutant form of the American cockroach, Periplaneta americana (L.). Nature 182:892. https://doi.org/10.1038/182892b0
+Article 
+    
+                    Google Scholar 
+                Kalmus H (1943) The optomotor responses of some eye mutants of Drosophila. J Genet 45:206–213. https://doi.org/10.1007/bf02982936
+Article 
+    
+                    Google Scholar 
+                Kirschfeld K, Franceschini N (1969) Ein Mechanismus zur Steuerung des Lichtflusses in den Rhabdomeren des Komplexauges von Musca. Kybernetik 6:13–22. https://doi.org/10.1007/bf00288624
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Lall AB, Strother GK, Cronin TW, Seliger HH (1988) Modification of spectral sensitivities by screening pigments in the compound eyes of twilight-active fireflies (Coleoptera: Lampyridae). J Comp Physiol A 162:23–33. https://doi.org/10.1007/bf01342700
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Laughlin SB (1996) Matched filtering by a photoreceptor membrane. Vision Res 36:1529–1541Article 
+    CAS 
+    
+                    Google Scholar 
+                Mote MI, Goldsmith TH (1970) Spectral sensitivities of color receptors in the compound eye of the cockroach Periplaneta. J Exp Zool 173:137–145. https://doi.org/10.1002/jez.1401730203
+Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Pak WL, Lidington KJ (1974) Fast electrical potential from a long-lived, long-wavelength photoproduct of fly visual pigment. J Gen Physiol 63:740–756Article 
+    CAS 
+    
+                    Google Scholar 
+                Ross MH, Cochran G, Smyth D T (1964) Eye-color mutations in the American cockroach, Periplaneta americana. Ann Entomol Soc Am 57:790–792. https://doi.org/10.1093/aesa/57.6.790
+Article 
+    
+                    Google Scholar 
+                Saari P, French AS, Torkkeli PH, Liu H, Immonen EV, Frolov RV (2017) Distinct roles of light-activated channels TRP and TRPL in photoreceptors of Periplaneta americana. J Gen Physiol 149:455–464. https://doi.org/10.1085/jgp.201611737
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Shannon CE (1949) Communication in the presence of noise. Proc IRE 37:10–21. https://doi.org/10.1109/JRPROC.1949.232969
+Article 
+    
+                    Google Scholar 
+                Stavenga DG (1989) Pigments in compound eyes. In: Stavenga DG, Hardie RC (eds) Facets of vision. Springer, Berlin, pp 152–172Chapter 
+    
+                    Google Scholar 
+                Stavenga DG, Zantema A, Kuiper JW (1973) Rhodopsin processes and the function of the pupil mechanism in flies. In: Langer H (ed) Biochemistry and physiology of visual pigments. Springer, Berlin, pp 175–180Chapter 
+    
+                    Google Scholar 
+                Stavenga DG, Numan JAJ, Tinbergen J, Kuiper JW (1977) Insect pupil mechanisms. J Comp Physiol 113:73–93. https://doi.org/10.1007/bf00610454
+Article 
+    
+                    Google Scholar 
+                Stein RB, French AS, Holden AV (1972) The frequency response, coherence, and information capacity of two neuronal models. Biophys J 12:295–322. https://doi.org/10.1016/S0006-3495(72)86087-9
+Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Streck P (1972) Der Einfluß des Schirmpigmentes auf das Sehfeld einzelner Sehzellen der Fliege Calliphora erythrocephala Meig. Z Vgl Physiol 76:372–402. https://doi.org/10.1007/bf00337781
+Article 
+    
+                    Google Scholar 
+                Walcott B (1971) Cell movement on light adaptation in the retina of Lethocerus (Belostomatidae, Hemiptera). Z Vgl Physiol 74:1–16. https://doi.org/10.1007/bf00297785
+Article 
+    
+                    Google Scholar 
+                Ward CL, Hammen CS (1957) New mutations affecting tryptophan-derived eye pigments in three species of insects. Evolution 11:60–64Article 
+    CAS 
+    
+                    Google Scholar 
+                Wu CF, Wong F (1977) Frequency characteristics in the visual system of Drosophila: genetic dissection of electroretinogram components. J Gen Physiol 69:705–724Article 
+    CAS 
+    
+                    Google Scholar 
+                Zhu H, Kirschfeld K (1984) Protection against photodestruction in fly photoreceptors by carotenoid pigments. J Comp Physiol A 154:153–156. https://doi.org/10.1007/bf00604980
+Article 
+    CAS 
+    
+                    Google Scholar 
+                Zhukovskaya M, Novikova E, Saari P, Frolov RV (2017) Behavioral responses to visual overstimulation in the cockroach Periplaneta americana L. J Comp Physiol A 203:1007–1015. https://doi.org/10.1007/s00359-017-1210-8
+Article 
+    
+                    Google Scholar 
+                Download referencesFundingThe work was supported by State budget grant of Russian Federation #АААА-А18-118013090245-6 to MZ and Natural Sciences and Engineering Research Council of Canada (NSERC) Grants RGPIN/05565 (to P. H. Torkkeli) and RGPIN/03712 (to A. S. French).Author informationAuthors and AffiliationsBiophysics Group, Nano and Molecular Systems Research Unit, University of Oulu, Oulu, FinlandPaulus Saari, Esa-Ville Immonen, Joni Kemppainen, Kyösti Heimonen & Roman V. FrolovSechenov Institute of Evolutionary Physiology and Biochemistry, Russian Academy of Sciences, 44 Thorez Pr., Saint Petersburg, 194223, RussiaMarianna Zhukovskaya & Ekaterina NovikovaDepartment of Physiology and Biophysics, Dalhousie University, P.O. Box 15000, Halifax, NS, B3H 4R2, CanadaAndrew S. French, Päivi H. Torkkeli & Hongxia LiuAuthorsPaulus SaariView author publicationsYou can also search for this author in
+                        PubMed Google ScholarEsa-Ville ImmonenView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJoni KemppainenView author publicationsYou can also search for this author in
+                        PubMed Google ScholarKyösti HeimonenView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMarianna ZhukovskayaView author publicationsYou can also search for this author in
+                        PubMed Google ScholarEkaterina NovikovaView author publicationsYou can also search for this author in
+                        PubMed Google ScholarAndrew S. FrenchView author publicationsYou can also search for this author in
+                        PubMed Google ScholarPäivi H. TorkkeliView author publicationsYou can also search for this author in
+                        PubMed Google ScholarHongxia LiuView author publicationsYou can also search for this author in
+                        PubMed Google ScholarRoman V. FrolovView author publicationsYou can also search for this author in
+                        PubMed Google ScholarCorresponding authorCorrespondence to
+                Roman V. Frolov.Ethics declarations
+Conflict of interest
+No competing interests declared.
+Rights and permissionsReprints and PermissionsAbout this articleCite this articleSaari, P., Immonen, EV., Kemppainen, J. et al. Changes in electrophysiological properties of photoreceptors in Periplaneta americana associated with the loss of screening pigment.
+                    J Comp Physiol A 204, 915–928 (2018). https://doi.org/10.1007/s00359-018-1290-0Download citationReceived: 05 July 2018Revised: 10 September 2018Accepted: 12 September 2018Published: 20 September 2018Issue Date: November 2018DOI: https://doi.org/10.1007/s00359-018-1290-0Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        KeywordsCompound eyeWhite-eyedScreening pigmentPhotoreceptor
+Periplaneta americana
+
+
+
+
+
+
+
+
+Access via your institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Access options
+
+Buy single article
+
+
+Instant access to the full article PDF.
+
+
+USD 39.95
+Price excludes VAT (USA)
+     Tax calculation will be finalised during checkout.
+
+
+
+
+
+
+
+
+
+
+Rent this article via DeepDyve.
+
+
+
+
+
+
+
+Learn more about Institutional subscriptions
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Over 10 million scientific documents at your fingertips
+
+Switch Edition
+
+
+Academic Edition
+
+
+Corporate Edition
+
+
+
+
+
+
+
+Home
+Impressum
+Legal information
+Privacy statement
+California Privacy Statement
+How we use cookies
+Manage cookies/Do not sell my data
+Accessibility
+FAQ
+Contact us
+Affiliate program
+
+
+
+Not logged in
+ - 66.253.176.25
+
+
+            Not affiliated
+        
+
+
+Springer Nature
+
+
+
+
+© 2023 Springer Nature Switzerland AG. Part of Springer Nature.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

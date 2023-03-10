@@ -1,0 +1,872 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Environmental plasticity in opsin expression due to light and thyroid hormone in adult and developing Astatotilapia burtoni | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Go to cart
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+
+Search SpringerLink
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Hydrobiologia
+
+
+
+
+
+Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADVANCES IN CICHLID RESEARCH V
+Published: 10 August 2022
+
+Environmental plasticity in opsin expression due to light and thyroid hormone in adult and developing Astatotilapia burtoni
+Melissa M. Schreiner 
+            ORCID: orcid.org/0000-0002-4970-47251, Miranda R. Yourick1, Scott A. Juntti 
+            ORCID: orcid.org/0000-0001-7634-13951 & …Karen L. Carleton 
+            ORCID: orcid.org/0000-0001-6306-56431 Show authors
+
+Hydrobiologia
+
+                             (2022)Cite this article
+
+
+
+
+
+
+140 Accesses
+
+
+3 Altmetric
+
+
+Metrics details
+
+
+
+
+
+
+
+
+AbstractCichlid fishes show remarkable variation in visual sensitivities through differential expression of seven cone opsin genes. Many species undergo spectral sensitivity shifts from shorter to longer wavelengths as they develop from larvae to adults. However, while some species retain larval-like short wavelength sensitivities, others show adult-like longer wavelength sensitivities throughout life. The riverine cichlid, Astatotilapia burtoni, shows a single cone progression from ultraviolet to violet to blue sensitivity, while their long wavelength double cones maintain green and red sensitivities throughout life. To identify mechanisms that regulate these sensitivities, we asked whether thyroid hormone (TH) or light environment can drive shifts. We find that developmental treatment with TH can speed shifts to longer wavelength sensitivity, but only in single cones. TH inhibition can short wavelength shift adult opsin expression. Exposure to light regimes containing UV wavelengths induce short wavelength shifts in single cones early in development. None of the treatments produces double cone shifts or significant expression of the shortest wavelength double cone opsin, rh2b, although we detect no cis-regulatory variation. This suggests that while single cones show both TH and light plasticity, A. burtoni double cones have lost this plasticity, perhaps through changes in trans-acting opsin regulation.
+
+This is a preview of subscription content, access via your institution.
+
+
+
+
+Access options
+
+Buy single article
+
+
+Instant access to the full article PDF.
+
+
+USD 39.95
+Price excludes VAT (USA)
+     Tax calculation will be finalised during checkout.
+
+
+
+
+
+
+
+
+
+
+Rent this article via DeepDyve.
+
+
+
+
+
+
+
+Learn more about Institutional subscriptions
+
+
+
+
+
+
+
+
+Fig. 1Fig. 2Fig. 3Fig. 4Fig. 5
+
+
+
+
+
+Data availability
+Quantitative PCR data are given in Supplementary Tables S2–S5.
+ReferencesAllison, W. T., S. G. Dann, K. M. Veldhoen & C. W. Hawryshyn, 2006. Degeneration and regeneration of ultraviolet cone photoreceptors during development in rainbow trout. Journal of Comparative Neurology 499(5): 702–715.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Applebury, M. L., F. Farhangfar, M. Glosmann, K. Hashimoto, K. Kage, J. T. Robbins, N. Shibusawa, F. E. Wondisford & H. Zhang, 2007. Transient expression of thyroid hormone nuclear receptor TRbeta2 sets S opsin patterning during cone photoreceptor genesis. Development Dynamics 236(5): 1203–1212.Article 
+    CAS 
+    
+                    Google Scholar 
+                Beaudet, L., I. Novales Flamarique & C. W. Hawryshyn, 1997. Cone photoreceptor topography in the retina of sexually mature Pacific salmonid fishes. Journal of Comparative Neurology 383(1): 49–59.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Bedolla, D. E. & V. Torre, 2011. A component of retinal light adaptation mediated by the thyroid hormone cascade. PLoS ONE 6(10): e26334.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Bowmaker, J. K., 1995. The visual pigments of fish. Progress in Retinal and Eye Research 15(1): 1–31.Article 
+    
+                    Google Scholar 
+                Carleton, K. L., 2011. Quantification of transcript levels with quantitative RT-PCR. Methods in Molecular Biology 772: 279–95.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Carleton, K. L., T. C. Spady, J. T. Streelman, M. R. Kidd, W. N. McFarland & E. R. Loew, 2008. Visual sensitivities tuned by heterochronic shifts in opsin gene expression. BMC Biology 6(1): 22.Article 
+    PubMed 
+    PubMed Central 
+    CAS 
+    
+                    Google Scholar 
+                Carleton, K. L., B. E. Dalton, D. Escobar-Camacho & S. P. Nandamuri, 2016. Proximate and ultimate causes of variable visual sensitivities: Insights from cichlid fish radiations. Genesis 54(6): 299–325.Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Carleton, K. L., M. A. Conte, M. Malinsky, S. P. Nandamuri, B. A. Sandkam, J. I. Meier, S. Mwaiko, O. Seehausen & T. D. Kocher, 2020a. Movement of transposable elements contributes to cichlid diversity. Molecular Ecology 29(24): 4956–4969.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Carleton, K. L., D. Escobar-Camacho, S. M. Stieb, F. Cortesi & J. Marshall, 2020. Seeing the rainbow: mechanisms underlying spectral sensitivity in teleost fishes. Journal of Experimental Biology. https://doi.org/10.1242/jeb.193334.Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Castro-Mondragon, J. A., R. Riudavets-Puig, I. Rauluseviciute, R. Berhanu Lemma, L. Turchi, R. Blanc-Mathieu, J. Lucas, P. Boddie, A. Khan, N. Manosalva Perez, O. Fornes, T. Y. Leung, A. Aguirre, F. Hammal, D. Schmelter, D. Baranasic, B. Ballester, A. Sandelin, B. Lenhard, K. Vandepoele, W. W. Wasserman, F. Parcy & A. Mathelier, 2022. JASPAR 2022: the 9th release of the open-access database of transcription factor binding profiles. Nucleic Acids Research 50(D1): D165–D173.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Cheng, C. L., K. J. Gan & I. N. Flamarique, 2009. Thyroid hormone induces a time-dependent opsin switch in the retina of salmonid fishes. Investigative Ophthalmology & Vision Science 50(6): 3024–3032.Article 
+    
+                    Google Scholar 
+                Cronin, T. W., S. Johnsen, N. J. Marshall & E. J. Warrant, 2014. Visual Ecology, Princeton University Press, Princeton, N.J.Book 
+    
+                    Google Scholar 
+                Dalton, B. E., E. R. Loew, T. W. Cronin & K. L. Carleton, 2014. Spectral tuning by opsin coexpression in retinal regions that view different parts of the visual field. Proceedings: Biological Science 281(1797): 20141980.
+                    Google Scholar 
+                Dalton, B. E., J. Lu, J. Leips, T. W. Cronin & K. L. Carleton, 2015. Variable light environments induce plastic spectral tuning by regional opsin coexpression in the African cichlid fish Metriaclima Zebra. Molecular Ecology 24(16): 4193–4204.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Dalton, B. E., F. de Busserolles, N. J. Marshall & K. L. Carleton, 2017. Retinal specialization through spatially varying cell densities and opsin coexpression in cichlid fish. Journal of Experimental Biology 220(Pt 2): 266–277.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Deal, C. K. & H. Volkoff, 2020. The role of the thyroid axis in fish. Frontiers Endocrinology (Lausanne) 11: 596585.Article 
+    
+                    Google Scholar 
+                Ebrey, T. & Y. Koutalos, 2001. Vertebrate photoreceptors. Progress in Retinal and Eye Research 20(1): 49–94.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Eldred, K. C., S. E. Hadyniak, K. A. Hussey, B. Brenerman, P. W. Zhang, X. Chamling, V. M. Sluch, D. S. Welsbie, S. Hattar, J. Taylor, K. Wahlin, D. J. Zack & R. J. Johnston Jr., 2018. Thyroid hormone signaling specifies cone subtypes in human retinal organoids. Science. https://doi.org/10.1126/science.aau6348.Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Fernald, R. D., 1984. Vision and behavior in an African cichlid fish. American Scientist 72: 58–65.
+                    Google Scholar 
+                Fernald, R. D. & P. A. Liebman, 1980. Visual receptor pigments in the African cichlid fish, Haplochromis burtoni. Vision Research 20(10): 857–864.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Forrest, D. & A. Swaroop, 2012. Minireview: the role of nuclear receptors in photoreceptor differentiation and disease. Molecular Endocrinology 26(6): 905–915.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Forsell, J., P. Ekstrom, I. N. Flamarique & B. Holmqvist, 2001. Expression of pineal ultraviolet- and green-like opsins in the pineal organ and retina of teleosts. Journal of Expermental Biology 204(Pt 14): 2517–2525.Article 
+    CAS 
+    
+                    Google Scholar 
+                Fujimura, K. & N. Okada, 2007. Development of the embryo, larva and early juvenile of Nile tilapia Oreochromis niloticus (Pisces: Cichlidae) Developmental Staging System. Development, Growth & Differentiation 49(4): 301–324.Article 
+    
+                    Google Scholar 
+                Gan, K. J. & I. Novales Flamarique, 2010. Thyroid hormone accelerates opsin expression during early photoreceptor differentiation and induces opsin switching in differentiated TRα-expressing cones of the salmonid retina. Developmental Dynamics 239(10): 2700–2713.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Halstenberg, S., K. M. Lindgren, S. P. Samagh, M. Nadal-Vicens, S. Balt & R. D. Fernald, 2005. Diurnal rhythm of cone opsin expression in the teleost fish Haplochromis burtoni. Visual Neuroscience 22(2): 135–141.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Harer, A., J. Torres-Dowdall & A. Meyer, 2017. Rapid adaptation to a novel light environment: the importance of ontogeny and phenotypic plasticity in shaping the visual system of Nicaraguan Midas cichlid fish (Amphilophus citrinellus spp.). Molecular Ecology 26(20): 5582–5593.Article 
+    PubMed 
+    CAS 
+    
+                    Google Scholar 
+                Harer, A., A. Meyer & J. Torres-Dowdall, 2018. Convergent phenotypic evolution of the visual system via different molecular routes: How Neotropical cichlid fishes adapt to novel light environments. Evolution Letters 2(4): 341–354.Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Harer, A., N. Karagic, A. Meyer & J. Torres-Dowdall, 2019. Reverting ontogeny: rapid phenotypic plasticity of colour vision in cichlid fish. Royal Society Open Science 6(7): 190841.Article 
+    PubMed 
+    PubMed Central 
+    CAS 
+    
+                    Google Scholar 
+                Harpavat, S. & C. L. Cepko, 2003. Thyroid hormone and retinal development: an emerging field. Thyroid 13(11): 1013–1019.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Hofmann, C. M., K. E. O’Quin, N. J. Marshall, T. C. Cronin, O. Seehausen & K. L. Carleton, 2009. The eyes have it: Regulatory and structural changes both underlie cichlid visual pigment diversity. PLoS Biology 7(12): e1000266.Article 
+    PubMed 
+    PubMed Central 
+    CAS 
+    
+                    Google Scholar 
+                Hofmann, C. M., K. E. O’Quin, A. R. Smith & K. L. Carleton, 2010. Plasticity of opsin gene expression in cichlids from Lake Malawi. Molecular Ecology 19(10): 2064–2074.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Karagic, N., A. Harer, A. Meyer & J. Torres-Dowdall, 2018. Heterochronic opsin expression due to early light deprivation results in drastically shifted visual sensitivity in a cichlid fish: possible role of thyroid hormone signaling. Journal of Experimental Zoology Part B 330(4): 202–214.Article 
+    CAS 
+    
+                    Google Scholar 
+                Karagic, N., A. Harer, A. Meyer & J. Torres-Dowdall, 2022. Thyroid hormone tinkering elicits integrated phenotypic changes potentially explaining rapid adaptation of color vision in cichlid fish. Evolution. https://doi.org/10.1111/evo.14455.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Kroger, R. H. & R. D. Fernald, 1994. Regulation of eye growth in the African cichlid fish Haplochromis burtoni. Vision Research 34(14): 1807–1814.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Lukats, A., A. Szabo, P. Rohlich, B. Vigh & A. Szel, 2005. Photopigment coexpression in mammals: comparative and developmental aspects. Histology and Histopathology 20(2): 551–574.CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Mackin, R. D., R. A. Frey, C. Gutierrez, A. A. Farre, S. Kawamura, D. M. Mitchell & D. L. Stenkamp, 2019. Endocrine regulation of multichromatic color vision. Proceedings of the National Academy of Science USA 116(34): 16882–16891.Article 
+    CAS 
+    
+                    Google Scholar 
+                Maruska, K. P. & J. M. Butler, 2021. Reproductive- and social-state plasticity of multiple sensory systems in a cichlid fish. Integrative and Comparative Biology 61(1): 249–268.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Maruska, K. P., C. M. Anselmo, T. King, R. B. Mobley, E. J. Ray & R. Wayne, 2022. Endocrine and neuroendocrine regulation of social status in cichlid fishes. Hormones and Behaviour 139: 105110.Article 
+    CAS 
+    
+                    Google Scholar 
+                Nandamuri, S. P., M. R. Yourick & K. L. Carleton, 2017. Adult plasticity in African cichlids: rapid changes in opsin expression in response to environmental light differences. Molecular Ecology 26(21): 6036–6052.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Ng, L., J. B. Hurley, B. Dierks, M. Srinivas, C. Salto, B. Vennstrom, T. A. Reh & D. Forrest, 2001. A thyroid hormone receptor that is required for the development of green cone photoreceptors. Nature Genetics 27(1): 94–98.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                O’Quin, K. E., C. M. Hofmann, H. A. Hofmann & K. L. Carleton, 2010. Parallel evolution of opsin gene expression in African cichlid fishes. Molecular Biology and Evolution 27(12): 2839–2854.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                O’Quin, K. E., A. R. Smith, A. Sharma & K. L. Carleton, 2011. New evidence for the role of heterochrony in the repeated evolution of cichlid opsin expression. Evolution & Development 13(2): 193–203.Article 
+    
+                    Google Scholar 
+                Okano, T., D. Kojima, Y. Fukada, Y. Shichida & T. Yoshizawa, 1992. Primary structures of chicken cone visual pigments: vertebrate rhodopsins have evolved out of cone visual pigments. Proceedings of the National Academy of Science U S A 89(13): 5932–5936.Article 
+    CAS 
+    
+                    Google Scholar 
+                Paris, M. & V. Laudet, 2008. The history of a developmental stage: metamorphosis in chordates. Genesis 46(11): 657–672.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Prazdnikov, D. V. & F. N. Shkil, 2019. Experimental evidence of the role of heterochrony in evolution of the Mesoamerican cichlids pigment patterns. Evolution & Development 21(1): 3–15.Article 
+    
+                    Google Scholar 
+                Raine, J. C. & C. W. Hawryshyn, 2009. Changes in thyroid hormone reception precede SWS1 opsin downregulation in trout retina. Journal of Experimental Biology 212(17): 2781–2788.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Reddy, P. K., C. L. Brown, J. F. Leatherland & T. J. Lam, 1992. Role of thyroid hormones in tilapia larvae (Oreochromis mossambicus): II. Changes in the hormones and 5'-monodeiodinase activity during development. Fish Physiology and Biochemistry 9(5-6): 487–496.Roberts, M. R., M. Srinivas, D. Forrest, G. Morreale de Escobar & T. A. Reh, 2006. Making the gradient: thyroid hormone regulates cone opsin expression in the developing mouse retina. Proceedings of the National Academy of Science USA 103(16): 6218–6223.Article 
+    CAS 
+    
+                    Google Scholar 
+                Sawant, O. B., A. M. Horton, O. F. Zucaro, R. Chan, V. L. Bonilha, I. S. Samuels & S. Rao, 2017. The circadian clock gene bmal1 controls thyroid hormone-mediated spectral identity and cone photoreceptor function. Cell Rep 21(3): 692–706.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Schulte, J. E., C. S. O’Brien, M. A. Conte, K. E. O’Quin & K. L. Carleton, 2014. Interspecific variation in Rx1 expression controls opsin expression and causes visual system diversity in African Cichlid fishes. Molecular Biology & Evolution 31(9): 2297–2308.Article 
+    CAS 
+    
+                    Google Scholar 
+                Schwartz, S., Z. Zhang, K. A. Frazer, A. Smit, C. Riemer, J. Bouck, R. Gibbs, R. Hardison & W. Miller, 2000. PipMaker: a web server for aligning two genomic DNA sequences. Genome Research 10(4): 577–586.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Spady, T. C., J. W. Parry, P. R. Robinson, D. M. Hunt, J. K. Bowmaker & K. L. Carleton, 2006. Evolution of the cichlid visual palette through ontogenetic subfunctionalization of the opsin gene arrays. Molecular Biology and Evolution 23(8): 1538–1547.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Suliman, T. & I. Novales Flamarique, 2014. Visual pigments and opsin expression in the juveniles of three species of fish (rainbow trout, zebrafish, and killifish) following prolonged exposure to thyroid hormone or retinoic acid. Journal of Comparative Neurology 522(1): 98–117.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Swaroop, A., D. Kim & D. Forrest, 2010. Transcriptional regulation of photoreceptor development and homeostasis in the mammalian retina. Nature Reviews Neuroscience 11(8): 563–576.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Temple, S. E., E. M. Plate, S. Ramsden, T. J. Haimberger, W. M. Roth & C. W. Hawryshyn, 2006. Seasonal cycle in vitamin A1/A2-based visual pigment composition during the life history of coho salmon (Oncorhynchus kisutch). Journal of Comparative Physiology A 192(3): 301–313.Article 
+    CAS 
+    
+                    Google Scholar 
+                Temple, S. E., K. M. Veldhoen, J. T. Phelan, N. J. Veldhoen & C. W. Hawryshyn, 2008. Ontogenetic changes in photoreceptor opsin gene expression in coho salmon (Oncorhynchus kisutch, Walbaum). Journal of Experimental Biology 211(Pt 24): 3879–3888.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Torres-Dowdall, J., M. E. R. Pierotti, A. Harer, N. Karagic, J. M. Woltering, F. Henning, K. R. Elmer & A. Meyer, 2017. Rapid and parallel adaptive evolution of the visual system of neotropical midas cichlid fishes. Molecular Biology and Evolution 34(10): 2469–2485.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Veldhoen, K., W. T. Allison, N. Veldhoen, B. R. Anholt, C. C. Helbing & C. W. Hawryshyn, 2006. Spatio-temporal characterization of retinal opsin gene expression during thyroid hormone-induced and natural development of rainbow trout. Visual Neuroscience 23(2): 169–179.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Volkov, L. I., J. S. Kim-Han, L. M. Saunders, D. Poria, A. E. O. Hughes, V. J. Kefalov, D. M. Parichy & J. C. Corbo, 2020. Thyroid hormone receptors mediate two distinct mechanisms of long-wavelength vision. Proceedings of the National Academy of Science USA 117(26): 15262–15269.Article 
+    CAS 
+    
+                    Google Scholar 
+                Woltering, J. M., M. Holzem, R. F. Schneider, V. Nanos & A. Meyer, 2018. The skeletal ontogeny of Astatotilapia burtoni – a direct-developing model system for the evolution and development of the teleost body plan. BMC Developmental Biology 18(1): 8.Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Xiang, M., 2013. Intrinsic control of mammalian retinogenesis. Cellular and Molecular Life Sciences 70(14): 2519–2532.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Yang, F., H. Ma & X. Q. Ding, 2018. Thyroid hormone signaling in retinal development, survival, and disease. Vitamins and Hormones 106: 333–349.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Yokoyama, S., 2008. Evolution of dim-light and color vision pigments. Annual Review of Genomics and Human Genetics 9: 259–282.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Yourick, M. R., 2021. Internal and External Environmental Regulation of Opsin Expression in African Cichlids. University of Maryland.Yourick, M. R., B. A. Sandkam, W. J. Gammerdinger, D. Escobar-Camacho, S. P. Nandamuri, F. E. Clark, B. Joyce, M. A. Conte, T. D. Kocher & K. L. Carleton, 2019. Diurnal variation in opsin expression and common housekeeping genes necessitates comprehensive normalization methods for quantitative real-time PCR analyses. Molecular Ecology Resources 19(6): 1447–1460.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Download referencesAcknowledgementsWe would like to thank the Juntti and Kocher labs for help with fish care and breeding. We also thank Douglas Forrest for encouraging our studies of thyroid hormone responses. Thanks also to two anonymous reviewers for their suggestions and improvements.FundingThis work was supported by the National Eye Institute at the National Institutes of Health (NIH R01EY024639B (KC and SJ) and the National Science Foundation (IOS-1825723 (SJ) and IOS-0841270 (KC) and Human Frontiers in Science Program (RGY0079; SJ).Author informationAuthors and AffiliationsDepartment of Biology, University of Maryland, College Park, MD, 20742, USAMelissa M. Schreiner, Miranda R. Yourick, Scott A. Juntti & Karen L. CarletonAuthorsMelissa M. SchreinerView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMiranda R. YourickView author publicationsYou can also search for this author in
+                        PubMed Google ScholarScott A. JunttiView author publicationsYou can also search for this author in
+                        PubMed Google ScholarKaren L. CarletonView author publicationsYou can also search for this author in
+                        PubMed Google ScholarContributionsThis study was conceived by all authors. MS and MY performed data collection and analysis. SJ and KC contributed to the manuscript.Corresponding authorCorrespondence to
+                Karen L. Carleton.Ethics declarations
+Conflict of interest
+The authors have no competing interests in the performance of this research.
+Ethical approval
+This work has been completed under the approval of the University of Maryland’s Institutional Animal Care and Use Committee (R-AUG-18-41; R-FEB-21-06).
+Additional informationPublisher's NoteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Guest Editors: S. Koblmüller, R. C. Albertson, M. J. Genner, K. M. Sefc & T. Takahashi / Advances in Cichlid Research V: Behavior, Ecology and Evolutionary BiologySupplementary InformationBelow is the link to the electronic supplementary material.Supplementary file1 (DOCX 228 kb)Supplementary file2 (XLSX 87 kb)Rights and permissionsSpringer Nature or its licensor holds exclusive rights to this article under a publishing agreement  with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.Reprints and PermissionsAbout this articleCite this articleSchreiner, M.M., Yourick, M.R., Juntti, S.A. et al. Environmental plasticity in opsin expression due to light and thyroid hormone in adult and developing Astatotilapia burtoni.
+                    Hydrobiologia  (2022). https://doi.org/10.1007/s10750-022-04957-yDownload citationReceived: 02 April 2022Revised: 07 July 2022Accepted: 12 July 2022Published: 10 August 2022DOI: https://doi.org/10.1007/s10750-022-04957-yShare this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        KeywordsCichlid fishesPlasticityVisual sensitivityRetinaOpsin expression
+
+
+
+
+
+
+
+Access via your institution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Access options
+
+Buy single article
+
+
+Instant access to the full article PDF.
+
+
+USD 39.95
+Price excludes VAT (USA)
+     Tax calculation will be finalised during checkout.
+
+
+
+
+
+
+
+
+
+
+Rent this article via DeepDyve.
+
+
+
+
+
+
+
+Learn more about Institutional subscriptions
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Over 10 million scientific documents at your fingertips
+
+Switch Edition
+
+
+Academic Edition
+
+
+Corporate Edition
+
+
+
+
+
+
+
+Home
+Impressum
+Legal information
+Privacy statement
+California Privacy Statement
+How we use cookies
+Manage cookies/Do not sell my data
+Accessibility
+FAQ
+Contact us
+Affiliate program
+
+
+
+Not logged in
+ - 66.253.176.25
+
+
+            Not affiliated
+        
+
+
+Springer Nature
+
+
+
+
+© 2023 Springer Nature Switzerland AG. Part of Springer Nature.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,806 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spectral absorption of visual pigments in stomatopod larval photoreceptors | SpringerLink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Go to cart
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+
+
+Search SpringerLink
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Journal of Comparative Physiology A
+
+
+
+
+
+Article
+
+
+
+
+
+
+
+
+                            Spectral absorption of visual pigments in stomatopod larval photoreceptors
+                        
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Your article has downloaded
+            
+
+
+Similar articles being viewed by others
+
+
+
+
+
+Slider with three articles shown per slide. Use the Previous and Next buttons to navigate the slides or the slide controller buttons at the end to navigate through each slide.
+
+
+
+
+
+
+
+
+Transcriptomic evidence for visual adaptation during the aquatic to terrestrial metamorphosis in leopard frogs
+28 June 2022
+
+Ryan K. Schott, Rayna C. Bell, … Matthew K. Fujita
+
+
+
+
+
+
+
+
+
+
+Environmental plasticity in opsin expression due to light and thyroid hormone in adult and developing Astatotilapia burtoni
+10 August 2022
+
+Melissa M. Schreiner, Miranda R. Yourick, … Karen L. Carleton
+
+
+
+
+
+
+
+
+
+
+Changes in electrophysiological properties of photoreceptors in Periplaneta americana associated with the loss of screening pigment
+20 September 2018
+
+Paulus Saari, Esa-Ville Immonen, … Roman V. Frolov
+
+
+
+
+
+
+
+
+
+
+Parallel opsin switches in multiple cone types of the starry flounder retina: tuning visual pigment composition for a demersal life style
+19 March 2018
+
+Ilaria Savelli, Iñigo Novales Flamarique, … John S. Taylor
+
+
+
+
+
+
+
+
+
+
+Photoreceptor distributions, visual pigments and the opsin repertoire of Atlantic halibut (Hippoglossus hippoglossus)
+16 May 2022
+
+Kennedy Bolstad & Iñigo Novales Flamarique
+
+
+
+
+
+
+
+
+
+
+Anatomy of the stemmata in the Photuris firefly larva
+16 January 2019
+
+Frederick Murphy & Andrew Moiseff
+
+
+
+
+
+
+
+
+
+
+Light organ photosensitivity in deep-sea shrimp may suggest a novel role in counterillumination
+11 March 2020
+
+Heather D. Bracken-Grissom, Danielle M. DeLeo, … Tamara M. Frank
+
+
+
+
+
+
+
+
+
+
+Visual system plasticity is differently mediated by cone opsin expression and chromophore composition in closely related cichlid species
+09 August 2022
+
+Elodie Wilwert, Rampal S. Etienne, … Martine E. Maan
+
+
+
+
+
+
+
+
+
+
+The giant butterfly-moth Paysandisia archon has spectrally rich apposition eyes with unique light-dependent photoreceptor dynamics
+04 June 2018
+
+Primož Pirih, Marko Ilić, … Gregor Belušič
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+
+Original Paper
+
+Open Access
+
+Published: 14 January 2016
+
+Spectral absorption of visual pigments in stomatopod larval photoreceptors
+Kathryn D. Feller1 & Thomas W. Cronin2 
+
+Journal of Comparative Physiology A
+volume 202, pages 215–223 (2016)Cite this article
+
+
+
+
+
+
+2441 Accesses
+
+
+9 Citations
+
+
+8 Altmetric
+
+
+Metrics details
+
+
+
+
+
+
+
+
+AbstractLarval stomatopod eyes appear to be much simpler versions of adult compound eyes, lacking most of the visual pigment diversity and photoreceptor specializations. Our understanding of the visual pigment diversity of larval stomatopods, however, is based on four species, which severely limits our understanding of stomatopod eye ontogeny. To investigate several poorly understood aspects of stomatopod larval eye function, we tested two hypotheses surrounding the spectral absorption of larval visual pigments. First, we examined a broad range of species to determine if stomatopod larvae generally express a single, spectral class of photoreceptor. Using microspectrophotometry (MSP) on larvae captured in the field, we found data which further support this long-standing hypothesis. MSP was also used to test whether larval species from the same geographical region express visual pigments with similar absorption spectra. Interestingly, despite occupation of the same geographical location, we did not find evidence to support our second hypothesis. Rather, there was significant variation in visual pigment absorption spectra among sympatric species. These data are important to further our understanding of larval photoreceptor spectral diversity, which is beneficial to ongoing investigations into the ontogeny, physiology, and molecular evolution of stomatopod eyes.
+
+
+
+
+
+
+
+
+
+
+Working on a manuscript?
+Avoid the most common mistakes and prepare your manuscript for journal
+                editors.
+
+Learn more
+
+
+
+
+
+
+
+
+IntroductionStomatopods are known for the elaborate visual systems found in adults of many species. Adult stomatopod eyes have the largest reported photoreceptor diversity in a single eye, which in some species can include up to 16 classes of photoreceptors (Marshall et al. 1991a). These include specialized receptor classes for detecting a wide spectral range of visible (Cronin and Marshall 1989; Marshall et al. 1991a, b; Cronin et al. 1993; Cronin et al. 1994, Marshall et al. 1996; Chiao et al. 2000a) and ultraviolet (Marshall and Oberwinkler 1999; Bok et al. 2014) light, as well as detecting linearly and circularly polarized light (Marshall et al. 1991a; Marshall et al. 1999; Chiou et al. 2008; for review of stomatopod vision see Cronin et al. 2014). Many of these specialized receptor classes are found in the six rows of often enlarged ommatidia that run along the equator of many adult eyes, referred to as the midband.By comparison, stomatopod larvae lack the unusual, specialized ocular features of adults—and instead possess compound eyes similar to those of other zooplanktonic crustacean larvae (Cronin et al. 1995; Nilsson 1995). Larval stomatopod eyes are characterized by a uniform arrangement of ommatidial units (with no midband), transparent apposition optics, and a single spectral class of photoreceptor (Cronin et al. 1995; Jutte et al. 1998; Cronin and Jinks 2001). Throughout the larval progression, which depending on the species can include up to 11 pelagic stages, the eyes are understood to maintain this generic anatomy and physiology with only an increase in size, or number of ommatidia, as the animal grows. The stark differences between larval and adult stomatopod eye structures do not become overtly apparent until metamorphosis. In the final hours of the terminal larval stage, the adult retina develops completely separate from, but adjacent to, the preexisting larval eye tissue and persists into the juvenile adult stage until the larval tissue is completely pushed aside and reabsorbed (Williams et al. 1985; Cronin et al. 1995; Feller et al. 2014). This unusual process of eye development may arise from altered physiological demands between larval and adult eye structures (which are presumably adapted to disparate light environments and ecological behaviors), making it necessary to rebuild the eye anew rather than modifying the existing larval structures into the adult form.Though stomatopod larval eyes are much simpler than those of adults, they are exquisitely adapted for life in the pelagic environment. For example, the transparent apposition optics (provided by the arrangement of the crystalline cones) maximizes the overall transparency of the eye by condensing the opaque retina to a small ball at the center of the organ (Nilsson 1983). This results in an eye that appears much smaller than it actually is, making the animal more difficult to detect by visual predators in the water column (Nilsson 1983; Cronin and Jinks 2001). Additionally, reflecting structures overlying the condensed retina serve to further camouflage the eyes’ appearance (Feller and Cronin 2014).While there is a rich body of work characterizing the spectral systems of adult stomatopod eyes (for review see Cronin et al. 2014), very little is reported about the spectral sensitivity of larval photoreceptors. Currently, the visual pigment absorption spectra are known for only four species of stomatopod larvae (Table 1; Cronin et al. 1995; Jutte et al. 1998; Cronin and Jinks 2001; Feller et al. 2014). In the present study, we used microspectrophotometry (MSP) to test two hypotheses surrounding larval photoreceptor spectral sensitivity. First, we wished to test whether the presence of a single dominant spectral class of visual pigment is a ubiquitous characteristic of crustacean larval retinas in diverse taxonomic lineages. This hypothesis was founded on the results of MSP studies from four previously investigated stomatopod species (Gonodactylaceus falcatus, Cronin et al. 1995; Pullosquilla thomassini and P. littoralis, Jutte et al. 1998; and Squilla empusa, Cronin and Jinks 2001). Since this generalized assumption of larval visual pigments is based on very few species, we wished to further test this hypothesis through expansion of sampling in the stomatopod lineage.Table 1 Summary of average visual pigment absorption maxima known for stomatopod larvae and for the corresponding adultsFull size table
+In addition, we wished to examine the diversity of photoreceptor spectral sensitivity among species occupying the same habitat. Previous microspectrophotometric studies sampled stomatopod larvae procured from different locations; thus, photoreceptor variation among sympatric larvae remains unknown. The taxonomically diverse larvae included in this study (representing the superfamilies Squilloidea, Lysiosquilloidea, and Gonodactyloidea) were captured at the same location, Lizard Island (Queensland, Australia). Given that larvae perform many of the same generic zooplanktonic behaviors (i.e., feeding, vertical migrations, predator avoidance), we hypothesized that sympatric species possess similar visual pigment absorption spectra that are tuned to the pelagic light environment (~480–500 nm peak; McFarland 1986; Chiao et al. 2000b). The data from this study serve to expand our knowledge of larval visual pigment absorption among a broad taxonomic sample of the stomatopod order and improve our understanding of the peculiar ontogeny of vision in these marine crustaceans.Materials and methodsAnimalsStomatopod larvae are prohibitively difficult to culture in the laboratory, thus all individuals measured in this study were captured from the wild. Larvae were collected at night during the months of July and August (2011) near the shore of Lizard Island (Queensland, Australia). Late stage Alima pacifica and Lysiosquillina maculata were captured at the surface using dip nets and dive lights (AquaSun eLED, 825 lumens). All other larvae were collected on SCUBA at depths ranging from 3 to 15 m using the same dive lights and resealable plastic bags. Larval eyes were processed for microspectrophotometry (MSP) at the Lizard Island Research Station. Non-ocular tissue was fixed in 100 % ethanol and transported to the University of Maryland Baltimore County (UMBC; Baltimore, Maryland, USA) for DNA barcoding to confirm the species identity of each measured individual.DNA barcodingFixed, non-ocular tissue from each individual larva measured by MSP was transported to UMBC and stored at 4 °C for up to 1 month before processing. Genomic isolation and DNA sequencing methods as they pertain to stomatopod larval DNA barcoding are published in detail elsewhere (Feller et al. 2013). These methods, in brief, include isolation of genomic DNA from individual specimens and amplification of the cytochrome oxidase I mitochondrial gene (CO1) from each sample using degenerate primers and the polymerase chain reaction. CO1 genes were then sequenced, and species identities were determined through construction of a maximum likelihood phylogeny from 98 reference (S. Table 1) and 16 sample sequences (Fig. 1). According to the phylogenetic relationships established in previous studies (Porter et al. 2010), the phylogeny was rooted using two Hemisquilla species: Hemisquilla australiensis and H. californiensis. Experimental larval CO1 sequences were identified using criteria that consider positive identification of a sample sequence if it is reciprocally monophyletic with a reference sequence or if the sequence divergence between sample and reference is less than 3 % (Barber and Boyce 2006). Identified larval sample sequences were then deposited into GenBank.Fig. 1DNA barcoding maximum-likelihood tree constructed from reference (S. Table 1) and sample sequences. Shaded triangles represent clades of identified larval sample sequences. Genbank accession numbers for reference sequence of each identified group of larval sample sequences provided in parentheses next to each species name in the figure. Sample sequences included in each shaded clades are as follows: Alima pacifica (KM982420, KM982421, KM982422, KM982423, KM982424), Gonodactylaceus falcatus (KM982433), Gonodactylellus affinis (KM982426, KM982428), Odontodactylus cultrifer (KM982427), Pullosquilla thomassini (KM982425), Lysiosquillina maculata (KM982431, KM982432, KM982436). The location of the two unknown, individual larval sample sequences (Lysiosquilloid, KM982429; Squilloid, KM982430) are each highlighted with a shaded circle. Scale bar genetic distanceFull size image
+MicrospectrophotometryPrior to experimentation, all animals were dark adapted in a light-tight container within a dark room. Early stage larvae were adapted overnight, whereas late-stage larvae (which were likely to molt into the postlarval form) were adapted for a minimum of 3 h. Under red-light illumination, the eyes were dissected from the larval body and immediately flash-frozen using difluoroethane spray and mounted for cryosectioning. The frozen tissue was mounted in a cryomicrotome at −30 °C and sectioned at thicknesses of 10–12 µm. Each section was lightly fixed in filtered seawater containing 0.5 % glutaraldehyde (to promote photobleaching) and mounted between two coverslips using a ring of silicone grease to contain the mounting solution.The apparatus used for this research was a field-portable, single-beam, halogen light source microspectrophotometer (described in Loew 1982). A 0.5 neutral density filter (Edmund Optics, UV–VIS 12.5 mm diameter) was used to decrease the light intensity of the beam and maintain the optimal range of high voltage to the photomultiplier tube (−500 to −700 V). A diffuse red LED light (>600 nm) was directed onto a pellicle beam splitter located beneath the microscope stage to provide background illumination of the sample during positioning of the beam. While viewing eye sections under this background illumination, a beam (set to 650 nm) was adjusted to fit within the rhabdom of a single photoreceptive unit. The beam was then moved to the area immediately outside of the tissue section to determine the baseline spectrum. A new baseline spectrum was collected with every adjustment to the beam illumination or diameter, as well as with each new sample preparation. Since photoreceptor morphology is understood to be uniform across stomatopod larval retinas, rhabdoms were sampled one at a time from all regions of the eye. To avoid light contamination between sampled rhabdoms, no two rhabdoms were measured within the same viewable (and thus illuminated) area. For each rhabdom sampled, an initial dark-adapted absorption spectrum was obtained over a wavelength range of 350–750 nm in 1-nm steps driven by a stepper-motor spiral cam monochromator (Loew 1982). The computer-controlled beam was then used to photobleach the rhabdom with full-spectrum (350–750 nm), white light for 3–5 min before collecting a second scan. Neither the beam nor the tissue was moved during this procedure.Absorption spectra of bleachable photopigments within individual rhabdoms were calculated by taking the difference between the bleach and initial spectra. Each resulting curve was then fit to an A1 visual pigment template (Govardovskii et al. 2000) using a least-squares procedure (described in Cronin et al. 1994) to determine the wavelength of peak absorption of an individual rhabdom (λ
+max). Additionally, the average λ
+max for each species was generated by averaging all photobleach data measured from a given species and fitting the resulting curve to a series of A1 template spectra (Govardovskii et al. 2000).StatisticsThe λ
+max values from individual rhabdoms of a given species were plotted using the boxplot function in the graphics package of R version 2.14 (R Foundation for Statistical Computing, 2012). Using these data, we tested for variation in visual pigment λmax among species using an ANOVA with Scheffe post hoc analysis (α = 0.05). ANOVA and post hoc analyses were also performed in R.ResultsVisual pigment absorption spectra were measured from eight species of stomatopod larvae (Table 1; Figs. 2, 3) whose identities were confirmed via DNA barcoding (Fig. 1). A limitation of performing animal identification post hoc is that the number of individuals sampled per species in the primary experiment (MSP) cannot be controlled. As a result, the final data-set includes absorption measurements from multiple individuals of some species and single individuals for others. These species and the number of individuals sampled (in parentheses) from each species are as follows: Alima pacifica (5), Gonodactylaceus falcatus (1), Gonodactylellus affinis (2), Odontodactylus cultrifer (1), Pullosquilla thomassini (1), Lysiosquillina maculata (3), an unknown lysiosquilloid (1), and an unknown squilloid species (1) (S. Table 2; Fig. 1). The individual O. cultrifer larva fell outside of our 3 % sequence divergence minimum criteria for species assignment with a divergence of 4.7 % from the reference sequence (S. Table 2). However, we were able to assign this individual to species given its relative distance from other Odontodactylus species and reciprocal monophyly with the O. cultrifer reference (Fig. 1). The unknown larvae also presented genetic distances outside of our minimum criteria, but failed to present sufficient reciprocal monophyly and were thus assigned to superfamily as the lowest taxonomic unit (S. Table 2; Fig. 1). Thus, the nearest reference to the unknown lysiosquilloid larva was P. thomassini (Lysiosquilloidea; 16.3 % genetic distance, S. Table 2) and the unknown squilloid was sister to the A. pacific clade (Squilloidea; 18 % genetic distance, S. Table 2).Fig. 2
+Box plot of individual rhabdom λ
+max variation measured from stomatopod larva retinas. Letters
+A–C denote significance groups from an ANOVA with Scheffe post hoc analysis. α = 0.05. Box interquartile range, whiskers 1.5 interquartile range, open circles outliers, closed circles individual rhabdom data points, UK unknown species. The median is denoted by a thick, black line drawn horizontally in each box. Scale bar denotes genetic distance. The number of rhabdoms, n, reported from each species are indicated in parentheses next to species names. Asterisk data from Jutte et al. (1998); dagger data from Feller et al. (2014) and Cronin et al. (1995); section symbol data from Cronin and Jinks (2001)Full size image
+Fig. 3Average visual pigment absorption measurements from larval retinas of eight stomatopod species. Absorption curves calculated from rhabdom data (n values reported in Fig. 2) and fit to a template for an A1 chromophore (smooth line). Dagger in h denotes data published in Feller et al. (2014)Full size image
+Though the present study provides data from a single rhabdom of an early-stage P. thomassini larva that agrees with previously published results on this species, these data were insufficient for statistical analysis (Table 1; Fig. 3). To further analyze λ
+max variation among stomatopod larval species, we included data previously published for species both collected (G. falcatus, Feller et al. 2014) and not collected (Pullosquilla thomassini and P. littoralis; Jutte et al. 1998; and Squilla empusa; Cronin and Jinks 2001) from the Lizard Island reef platform. Note that though P. thomassini and P. littoralis species do occur at Lizard Island, the previously published data from these species were generated from laboratory-reared larvae hatched from adult specimens captured in Moorea (French Polynesea; Jutte et al. 1998). An ANOVA test with Scheffe post hoc analysis (p < 0.001) reveals two significantly different groups of visual pigment classes: a short wavelength group (O. cultrifer, P. thomassini, G. affinis, P. litoralis) and a long wavelength group (Unknown lysiosquilloid, L. maculata, G. falcatus, S. empusa). The visual pigments of two species, A. pacifica and the unknown squilloid, were intermediate to the short- and long-wavelength significance groups (Fig. 2).DiscussionIn accordance with previous findings (Cronin et al. 1995; Jutte et al. 1998; Cronin and Jinks 2001), the data presented in this study support the hypothesis that a single spectral class of photoreceptor is expressed in larval stomatopod eyes (Table 1). However, the data did not support our second hypothesis that stomatopod larvae from the same habitat possess photoreceptors with similar absorption spectra. Though all sampled individuals occur in the same pelagic habitat, near Lizard Island (Queensland, Australia), absorption spectra maxima (or λ
+max values) varied significantly among species (Fig. 2). Detailed discussions of each of these findings are provided below.Using MSP, we characterized photoreceptor spectral absorption in eight sympatric species of stomatopod larvae, six of which were previously uncharacterized (Table 1; Figs. 2, 3). The three superfamilies represented by these species make up ~87 % of the extant stomatopod biodiversity (Squilloidea, Lysiosquilloidea, and Gonodactyloidea; Porter et al. 2010), presenting a broad taxonomic sampling of the stomatopod lineage. Only a single spectral class of photoreceptor was found in retinas of each sampled species, which further supports the understanding that a single spectral class of visual pigment is a shared trait among stomatopod larval retinas. Though ultraviolet (UV)-sensitive, R8 photoreceptors are suggested to exist in the retinas of marine crustacean larvae (Douglass and Forward 1989), neither MSP evidence of a UV-absorbing visual pigment nor anatomical evidence of R8 cell structures have been found in stomatopod larvae (Feller pers. observ.). Given the current data, we cannot reject the hypothesis that only a single, spectral class of visual pigment is expressed in stomatopod larval retinas at any given developmental time point. However, we strongly suggest further investigation into the photoreceptor spectral absorption of A. pacifica and other squilloid larvae that present a broad, though not statistically different, range of λ
+max values (Fig. 2). Additionally, the presence of outliers in many of the sampled species may represent a small population of photoreceptors of a different spectral class (Fig. 2). This question can be adequately addressed by additional techniques, such as molecular characterization of larval opsin genes and their expression patterns across the retina and/or by intracellular recordings of photoreceptor cells.Changes in visual pigment expression at metamorphosis remain an ongoing question in the literature (Cronin et al. 1995; Cronin and Jinks 2001). Prior to this investigation, data from several stomatopod studies suggested expression of the larval visual pigment in the adult retina (Table 1; P. thomassini and P. litoralis; Jutte et al. 1998; S. empusa, Cronin and Jinks 2001) while others suggested that the larval pigment is lost at metamorphosis (Table 1; G. falcatus, Cronin et al. 1995). Our data serve to expand the number of species for which we have larval and adult visual pigment absorption data; however, they do not resolve this question. While the squilloid and lysiosquilloid larvae demonstrate expression of a similar visual pigment class in larval and adult retinas (A. pacifica, S. empusa, P. thomassini, P. litoralis, and L. maculata), data from the gonodactyloid species (G. falcatus and G. affinis) suggest that the larval visual pigment is distinct from any visual pigments found in the adult eye (Table 1). A characterization of opsin gene (or visual pigment protein) expression throughout ontogeny of individual species from larvae to adults will serve to answer this question.One of the most unexpected findings of this study was the amount of variation in absorption spectra among different species of stomatopod larvae known to occur in the same pelagic habitat (Fig. 2). The pelagic environment is a featureless world in which all larvae must perform similar visual tasks for feeding and survival. We predicted that larval species from the same environment, the waters near Lizard Island, would express similar absorption spectra in their photoreceptors that is typical of the light environment in which they are found (maximum irradiance near 480–500 nm; McFarland 1986; Chiao et al. 2000b; see data in Cronin 2006). Though some species matched our prediction, visual pigments in three of the sampled species maximally absorbed at wavelengths significantly shorter than those of their sympatric heterospecifics, leading us to reject our initial hypothesis that larval species in the same habitat share similar visual pigment absorption spectra. Since larval retinas are independent of the adult tissue (per the double-retina eye development described in the introduction), these differences can neither be attributed to differences in adult retinal sensitivity, nor to the evolutionary relationships of the sampled species. Thus, we must posit alternate hypotheses to account for the observed differences in larval photoreceptor diversity.Variations in spectral tuning among species, whether by the expression of different light-absorbing visual pigments or by the interaction with other optical structures (such as screening pigments or filters; Marshall et al. 1991a, b; Jutte et al. 1998), are typically driven by differences in light environment or in animal ecology (Cronin et al. 1993; Chiao et al. 2000a, b). Since the larvae sampled in this study were all understood to occur in the same light environment, differences in the ecological niches occupied by each species may be responsible for driving the expression of significantly different photoreceptor classes among species (Fig. 2). Specialized behavioral tasks such as vertical migration, feeding, or adult settlement cues may also contribute to the observed differences in spectral sensitivity. Differences in vertical migratory behavior in particular may result in selection towards different photoreceptor spectral sensitivities, since the light environment changes substantially with depth (McFarland 1986). Until more is known regarding stomatopod larval ecology and behavior, the adaptive significance of different photoreceptor classes in each species will remain unknown.Though differences in ecology offer a potential explanation for the unexpected variation in the λ
+max values of sympatric species, an alternate hypothesis that considers the developmental stages of sampled individuals may also explain these results. All species in the short-wavelength sensitive group were sampled in the earliest stages of their larval progression. Since the larval stages are not described for most species, we cannot ascertain the exact stage of these individuals; however, it appears likely that these wild-caught larvae were in their first, or very close to first, zoeal stage of development. All individuals in the long-wavelength group were sampled at a later or last stage of the larval developmental phase. These individuals included terminal stage larvae (A. pacifica and L. maculata), newly molted postlarvae with large double retinas (G. falcatus), and a midstage larva (unknown lysiosquilloid, assessed on general size and appendage development). The data included from previously published studies of allopatric larvae also follow this pattern. S. empusa visual pigments from late stage larvae (Cronin and Jinks 2001) absorb significantly longer wavelengths than those of either P. thomassini or P. litoralis larvae, which were sampled in their first stage after hatching in the laboratory (Jutte et al. 1998). In general, it appears common for late-stage larvae to express a set of visual pigments absorbing at longer wavelengths than those of early-stage larvae from the same species.It has been reported that larval behavior, specifically maximum depth range for vertical migration, changes as stomatopods progress from early to late stages of larval development (Dingle 1968; Ohtomi et al. 2005). Thus, in accordance with such ontogenetic changes in behavior we hypothesize that stomatopod larvae undergo an ontogenetic shift in photoreceptor spectral sensitivity during the larval phase of life, whereby early stage larvae express short-wavelength sensitive visual pigments and the visual pigments of later larval stages are long-wavelength shifted. Characterization of larval visual pigment absorption spectra or opsin gene expression patterns during each stage of development (from embryo to postlarva) of a single species will serve to test this hypothesis directly.This body of work contributes to our understanding of stomatopod larval visual ecology and provides a foundation on which to build further studies of this system. Many of the questions raised by this study can be addressed through characterization of the opsin proteins expressed throughout the visual ontogeny of stomatopod crustaceans. The further pursuit of stomatopod larval visual research will serve to bring additional elements into the greater story of stomatopod eye evolution.
+
+ReferencesBarber P, Boyce S (2006) Estimating diversity of Indo-Pacific coral reef stomatopods through DNA barcoding of stomatopod larvae. Proc R Soc B 273:2053–2061Article 
+    PubMed Central 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Bok MJ, Porter ML, Place AR, Cronin TW (2014) Biological sunscreens tune polychromatic ultraviolet vision in mantis shrimp. Curr Biol 24(14):1636–1642Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Chiao CC, Cronin TW, Marshall NJ (2000a) Eye design and color signaling in a stomatopod crustacean. Brain Behav Evol 56(2):107–122Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Chiao CC, Cronin TW, Osorio D (2000b) Color signals in natural scenes: characteristics of reflectance spectra and effects of natural illuminants. J Opt Soc Am A: 17(2):218–224Article 
+    CAS 
+    
+                    Google Scholar 
+                Chiou TH, Kleinlogel S, Cronin TW, Caldwell RL, Loeffler B, Siddiqi A, Goldizen A, Marshall NJ (2008) Circular polarization vision in a somatopod crustacean. Curr Biol 18(6):429–434Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Cronin TW (2006) Chapter 6: Invertebrate Vision in Water. In: Warrant E, Nilsson DE (eds) Invertebrate vision. Cambridge University Press, Cambridge, pp 211–249
+                    Google Scholar 
+                Cronin T, Jinks R (2001) Ontogeny of vision in marine crustaceans. Am Zool 41:1098–1107
+                    Google Scholar 
+                Cronin TW, Marshall NJ (1989) Multiple spectral classes of photoreceptors in the retinas of gonodactyloid stomatopod crustaceans. J Comp Phys A 166:261–275
+                    Google Scholar 
+                Cronin TW, Marshall NJ, Caldwell RL (1993) Photoreceptor spectral diversity in the retinas of squilloid and lysiosquilloid stomatopod crustaceans. J Comp Phys A 172:339–350Article 
+    
+                    Google Scholar 
+                Cronin TW, Marshall NJ, Caldwell RL (1994) The retinas of mantis shrimps from low-light environments (Crustacea; Stomatopoda; Gonodactylidae). J Comp Phys A 174(5):607–619Article 
+    
+                    Google Scholar 
+                Cronin TW, Marshall NJ, Caldwell RL, Pales D (1995) Compound eyes and ocular pigments of crustacean larvae (Stomatopoda and Decapoda, Brachyura). Mar Fresh Behav Physiol 26:219–231Article 
+    
+                    Google Scholar 
+                Cronin TW, Bok MJ, Marshall NJ, Caldwell RL (2014) Filtering and polychromatic vision in mantis shrimps: themes in visible and ultraviolet vision. Philos Trans R Soc London [Biol] 369(1636):20130032Article 
+    
+                    Google Scholar 
+                Dingle H (1968) Ontogenetic changes in phototaxis and thigmokinesis in stomatopod larvae. Crustaceana 16:108–110Article 
+    
+                    Google Scholar 
+                Douglass J, Forward R (1989) The ontogeny of facultative superposition optics in a shrimp eye: hatching through metamorphosis. Cell Tissue Res 258:289–300Article 
+    
+                    Google Scholar 
+                Feller KD, Cronin TW (2014) Hiding opaque eyes in transparent organisms: a potential role for larval eyeshine in stomatopod larvae. J Exp Biol 217:3263–3273Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Feller KD, Cronin TW, Ahyong ST, Porter ML (2013) Morphological and molecular description of the late-stage larvae of Alima Leach, 1817 (Crustacea: Stomatopoda) from Lizard Island, Australia. Zootaxa 37221(1):22–32Article 
+    
+                    Google Scholar 
+                Feller KD, Cohen JH, Cronin TW (2014) Seeing double: visual physiology of double-retina eye ontogeny in stomatopod crustaceans. J Comp Physiol A. doi:10.1007/s00359-014-0967-2
+
+                    Google Scholar 
+                Govardovskii V, Fyhrquist N, Reuter T, Kuzmin D, Donner K (2000) In search of the visual pigment template. Vis Neurosci 17(4):509–528Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Jutte P, Cronin T, Caldwell R (1998) Photoreception in the planktonic larvae of two species of Pullosquilla, a lysiosquilloid stomatopod crustacean. J Exp Biol 201:2481–2487PubMed 
+    
+                    Google Scholar 
+                Loew ER (1982) A field-portable microspectrophotometer. Methods Enzymol 81:647–655Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Marshall J, Oberwinkler J (1999) Ultraviolet vision: the colourful world of the mantis shrimp. Nature 401:873–874Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Marshall N, Land M, King C, Cronin T (1991a) The compound eyes of mantis shrimps (Crustacea, Hoplocarida, Stomatopoda). I. Compound eye structure: the detection of polarized light. Philos Trans R Soc London [Biol] 334(1269):33–56Article 
+    
+                    Google Scholar 
+                Marshall N, Land M, King C, Cronin T (1991b) The compound eyes of mantis shrimps (Crustacea, Hoplocarida, Stomatopoda). II. Colour pigments in the eyes of stomatopod crustaceans: polychromatic vision by serial and lateral filtering. Philos Trans R Soc London [Biol] 334(1269):57–84Article 
+    
+                    Google Scholar 
+                Marshall N, Jones J, Cronin T (1996) Behavioural evidence for colour vision in stomatopod crustaceans. J Comp Phys A 179:473–481Article 
+    
+                    Google Scholar 
+                Marshall J, Cronin T, Shashar N, Land M (1999) Behavioural evidence for polarisation vision in stomatopods reveals a potential channel for communication. Curr Biol 9:755–758Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                McFarland WN (1986) Light in the sea-correlations with behaviors of fishes and invertebrates. Am Zool 26(2):389–401Article 
+    
+                    Google Scholar 
+                Nilsson D (1983) Evolutionary links between apposition and superposition optics in crustacean eyes. Nature 302(5911):818–821Article 
+    
+                    Google Scholar 
+                Nilsson D (1995) Eye design in planktonic invertebrates. In: Lenz PH, Hartline DK, Purcell JE, Macmillan DL (eds) Zooplankton: sensory ecology and physiology. B.V. Gordon and Breach, Amerstrdam, pp 149–162
+                    Google Scholar 
+                Ohtomi D, Kawazoe H, Furota T (2005) Larval stage composition and morphological change during larval development of the Japanese mantis shrimp, Oratosquilla oratoria (De Haan, 1844)(Stomatopoda, Squillidae) in Tokyo Bay, Japan. Crustaceana 78(11):1325–1337Article 
+    
+                    Google Scholar 
+                Porter ML, Zhang Y, Desai S, Caldwell RL, Cronin TW (2010) Evolution of anatomical and physiological specialization in the compound eyes of stomatopod crustaceans. J Exp Biol 213:3473–3486Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Williams B, Greenwood J, Jillett J (1985) Seasonality and duration of the developmental stages of Heterosquilla tricarinata (Claus, 1871) (Crustacea: Stomatopoda) and the replacement of the larval eye at metamorphosis. Bull Mar Sci 36(1):104–114
+                    Google Scholar 
+                Download referencesAcknowledgmentsThe authors are very grateful to Dr. Ellis Loew (Cornell University, Ithaca, NY, USA) for the use of his field-portable microspectrophotometer. In addition, we would like to thank Dr. Megan Porter for assistance with DNA barcoding and specimen collection, Dr. Justin Marshall for the use of his field-portable cryomicrotome and assistance with night dive collections,  as well as the staff at Lizard Island Research Station. This research was funded by a research Grant from the University of Maryland Baltimore County Graduate Student Association as well as the United States Air Force Office of Scientific Research (FA9550-12-1-0321).Author informationAuthors and AffiliationsUniversity of Bristol, Life Sciences Building Tyndall Avenue, Bristol, BS8 1TQ, UKKathryn D. FellerUniversity of Maryland Baltimore County, 1000 Hilltop Circle, Baltimore, MD, 21250, USAThomas W. CroninAuthorsKathryn D. FellerView author publicationsYou can also search for this author in
+                        PubMed Google ScholarThomas W. CroninView author publicationsYou can also search for this author in
+                        PubMed Google ScholarCorresponding authorCorrespondence to
+                Kathryn D. Feller.Electronic supplementary materialBelow is the link to the electronic supplementary material.
+
+
+                           
+                        359_2015_1063_MOESM1_ESM.docx
+S. Table 1. Reference cytochrome oxidase subunit I sequences used to construct maximum likelihood tree for DNA barcoding identification. With the exception of O. cultrifer, all sequences were obtained from GenBank. The reference sequence for O. cultrifer is a new submission with this work. (DOCX 106 kb)359_2015_1063_MOESM2_ESM.docx
+S. Table 2. Cytochrome oxidase subunit I percent similarities (genetic distance) between larval (left column) and reference sequences (top row). Reference sequence accession numbers listed with each species code. Highest percent similarity values highlighted in bold. In cases where multiple references exist for a given species, only the sequence with the highest percent similarity is reported. Species codes: Lm, Lysiosquillina maculata; UK Sq, unknown squilloid; Ap, Alima pacifica; Pt, Pullosquilla thomassini; UK Ly, unknown lysiosquilloid; Ga, Gonodactylellus affinis; Gf, Gonodactylaceus falcatus; Oc, Odontodactylus cultrifer. Lar, larva (DOCX 77 kb)Rights and permissions
+
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+Reprints and PermissionsAbout this articleCite this articleFeller, K.D., Cronin, T.W. Spectral absorption of visual pigments in stomatopod larval photoreceptors.
+                    J Comp Physiol A 202, 215–223 (2016). https://doi.org/10.1007/s00359-015-1063-yDownload citationReceived: 29 October 2015Revised: 08 December 2015Accepted: 13 December 2015Published: 14 January 2016Issue Date: March 2016DOI: https://doi.org/10.1007/s00359-015-1063-yShare this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        KeywordsStomatopodVisual pigmentLarvaMicrospectrophotometryVisual ecology
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+
+
+Working on a manuscript?
+Avoid the most common mistakes and prepare your manuscript for journal
+                editors.
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Over 10 million scientific documents at your fingertips
+
+Switch Edition
+
+
+Academic Edition
+
+
+Corporate Edition
+
+
+
+
+
+
+
+Home
+Impressum
+Legal information
+Privacy statement
+California Privacy Statement
+How we use cookies
+Manage cookies/Do not sell my data
+Accessibility
+FAQ
+Contact us
+Affiliate program
+
+
+
+Not logged in
+ - 66.253.176.25
+
+
+            Not affiliated
+        
+
+
+Springer Nature
+
+
+
+
+© 2023 Springer Nature Switzerland AG. Part of Springer Nature.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
