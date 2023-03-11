@@ -12,6 +12,9 @@ from urllib import request
 import os
 import re
 from nltk import word_tokenize
+from nltk import sent_tokenize
+import math
+from nltk import word_tokenize
 from nltk.corpus import stopwords
 
 '''
@@ -72,7 +75,7 @@ def webscraper():
 
     # ignore links that we cannot access
     ignore = ['login', 'Frspb', 'PMC1635474', '2F10236249509378941', 'Frstb', '2F156854068X00313', 'Fjeb',
-                 'Fzootaxa.3722.1.2', '2F26.2.389', '2F156854005776759843', 'MediaObjects', 'licenses', 'copyright']
+                 'Fzootaxa.3722.1.2', '2F26.2.389', '2F156854005776759843', 'MediaObjects', 'licenses', 'copyright', '=Retrieve']
     
     # Creates files of all text from all urls
     for url in urls:
@@ -111,7 +114,7 @@ def cleanup(fileamnt):
             fileamnt -= 1
         else:
             continue
-    
+
     for i in range(fileamnt):
         filepath = 'url/url' + i + '.txt'
         file = open(filepath, 'r').read()
@@ -119,41 +122,82 @@ def cleanup(fileamnt):
         print(text)
         #tokens = nltk.word_tokenize(text)
 
+    print('done removing unnecessary files!!')
 
-def important_terms(fileamnt):
+    for url in substantial_urls:
+        filepath = 'url' + str(url) + '.txt'
+        #file = open(filepath, 'w+', encoding='utf8')
+        #cur_path = os.path.dirname(__file__)
+        #new_path = cur_path + '\\url\\' + filepath
+        #with open(new_path,'w+') as f:
+            #text = re.sub(r'[.?!,:;()\-\n\d]', ' ', file.lower())
+            #text = re.sub(r'[\s\s+]', ' ', file)
+        f = open(filepath, 'r+', encoding='utf8').read()
+        #text = f.read()
+        text = " ".join(f.split())
+        #print(text)
+        filepath = 'url/clean' + str(url) + '.txt'
+
+        #tokens = nltk.word_tokenize(text)
+        sentences = sent_tokenize(text)
+        f = open(filepath, 'w', encoding="utf-8")
+        f.writelines(text[:])
+        f.close()
+
+
+'''
+- write a function to extract at least 25 important terms
+    - use term frequency or tf-idf
+    - first lowercase everything, remove stopwords, remove punctuation
+    - print top 25-40 terms
+'''
+def important_terms(substantial_urls):
     tf_dict = {}
     idf_dict = {}
-    for i in range(fileamnt):
+    #Gets tf for all files
+    for url in substantial_urls:
         #Gets file ready for extraction
-        curr_file = ('url/url' + i + '.txt') #Replace this with whatever we name the clean files
+        curr_file = ('url/clean' + str(url) + '.txt')
         curr_file = re.sub(r'[.?!,:;()\-\n\d]', ' ', curr_file.lower())
         tokens = word_tokenize(curr_file)
 
         #Removes stopwords
-        stopwords = set(stopwords.words('english'))
-        tokens = [t for t in tokens if not t in stopwords]
+        stpwrds = set(stopwords.words('english'))
+        tokens = [t for t in tokens if not t in stpwrds]
 
         #Gets term frequencies
         token_set = set(tokens)
         tf_dict = {t: tokens.count(t) for t in token_set}
 
-        # normalize tf by number of tokens
+        #Normalize tf by number of tokens
         for t in tf_dict.keys():
             tf_dict[t] = tf_dict[t] / len(tokens)
 
-        #get idf
-        
-    #get tf-idf for all files
+    vocab = set(tf_dict.keys())
 
-    #Prints top 25-40 words
+    #Gets idf
+    for term in vocab:
+        temp = ['x' for voc in vocab if term in voc]
+        idf_dict[term] = math.log((1+len(substantial_urls)) / (1+len(temp)))
+
+    #Get tf-idf for all files
+    tf_idf = {}
+    for t in tf_dict.keys():
+        tf_idf[t] = tf_dict[t] * idf_dict[t]
+
+    #Prints top 25 words
+    doc_term_weights = sorted(tf_idf.items(), key=lambda x: x[1], reverse=True)
+    print("\nMost important: ", doc_term_weights[:25])
 
 
 def main():
     #webcrawler()
     filecount = webscraper()
     print(f"filecount is : {filecount}")
-    cleanup(filecount)
-    important_terms(filecount)
+    filecount, significant = cleanup(filecount)
+    #filecount = 36
+    print(f"new filecount is : {filecount}")
+    important_terms(significant)
 
 # Starts program
 if __name__ == '__main__':
