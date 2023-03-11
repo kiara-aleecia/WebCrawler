@@ -11,6 +11,10 @@ import urllib
 from urllib import request
 import os
 import re
+import nltk
+from nltk import word_tokenize
+from nltk import sent_tokenize
+import math
 
 '''
 TO DO:
@@ -99,30 +103,93 @@ def webscraper():
 
     return count - 1
 
+'''
+- write function to clean up text from each file
+    [X]- delete newlines and tabs
+    [X]- extract sentences with nltk sentence tokenizer
+    [X]- write sentences for each file to a new file (15 in, 15 out)
+'''
 def cleanup(fileamnt):
     substantial_urls = [1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 18, 23, 24, 28, 32, 38, 42, 46]
     #remove files we don't need
-    for i in range(fileamnt):
-        curr_file = 'url/url' + i + '.txt'
+    for i in range(1, fileamnt+1):
+        curr_file = 'url/url' + str(i) + '.txt'
         if i not in substantial_urls and os.path.exists(curr_file):
             os.remove(curr_file)
             fileamnt -= 1
         else:
             continue
     
-    for i in range(fileamnt):
-        filepath = 'url/url' + i + '.txt'
-        file = open(filepath, 'r').read()
-        text = re.sub(r'[.?!,:;()\-\n\d]', ' ', file.lower())
-        print(text)
-        #tokens = nltk.word_tokenize(text)
+    print('done removing unnecessary files!!')
 
+    for url in substantial_urls:
+        filepath = 'url/url' + str(url) + '.txt'
+        file = open(filepath, 'rw', encoding='utf8').read()
+        #text = re.sub(r'[.?!,:;()\-\n\d]', ' ', file.lower())
+        #text = re.sub(r'[\s\s+]', ' ', file)
+        text = " ".join(file.split())
+        #print(text)
+        filepath = 'url/clean' + str(url) + '.txt'
+
+        #tokens = nltk.word_tokenize(text)
+        sentences = sent_tokenize(text)
+        file = open(filepath, 'w', encoding="utf-8")
+        file.writelines(text[:])
+        file.close()
+
+    return fileamnt, substantial_urls
+
+'''
+- write a function to extract at least 25 important terms
+    - use term frequency or tf-idf
+    - first lowercase everything, remove stopwords, remove punctuation
+    - print top 25-40 terms
+'''
+def important_terms(fileamnt, substantial_urls):
+    tf_dict = {}
+    idf_dict = {}
+    vocab = []
+    for url in substantial_urls:
+    #for i in range(fileamnt):
+        #Gets file ready for extraction
+        curr_file = ('cleandata/url' + str(url) + '.txt') #Replace this with whatever we name the clean files
+        curr_file = re.sub(r'[.?!,:;()\-\n\d]', ' ', curr_file.lower())
+        tokens = word_tokenize(curr_file)
+
+        #Removes stopwords
+        stopwords = set(stopwords.words('english'))
+        tokens = [t for t in tokens if not t in stopwords]
+
+        #Gets term frequencies
+        token_set = set(tokens)
+        
+        tf_dict = {t: tokens.count(t) for t in token_set}
+
+        # normalize tf by number of tokens
+        for t in tf_dict.keys():
+            tf_dict[t] = tf_dict[t] / len(tokens)
+
+        vocab.append(tf_dict.keys())
+
+        #get idf
+        for key in tf_dict.keys():
+            temp = ['x' for voc in vocab if key in voc]
+            idf_dict[key] = math.log((1+len(substantial_urls)) / (1+len(temp))) 
+        
+    #get tf-idf for all files
+
+    #Prints top 25-40 words
 
 def main():
-    webcrawler()
-    filecount = webscraper()
+    #webcrawler()
+    #filecount = webscraper()
+    filecount = 63
     print(f"filecount is : {filecount}")
-    cleanup(filecount)
+    filecount, significant = cleanup(filecount)
+    filecount = 36
+    print(f"new filecount is : {filecount}")
+    important_terms(filecount, significant)
+
 
 # Starts program
 if __name__ == '__main__':

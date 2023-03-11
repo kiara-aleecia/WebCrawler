@@ -37,7 +37,6 @@ Eye Design and Color Signaling in a Stomatopod Crustacean Gonodactylus smithii -
 
 
 
-
  
 
 
@@ -424,28 +423,11 @@ Log in to MyKarger to check if you already have access to this content.
 
 
 
-E-mail address
+User ID
 
 
 
 
-
-Next
-
-
-
-
-
-Next
-
-
-
-Sign up to MyKarger
-
-
-
-
-E-mail address
 
 
 Password
@@ -453,18 +435,13 @@ Password
 
 
 
-Login
 
 
+Forgot your password?    
+        
 
+ 
 
-
-Login
-
-
-
-Forgot your password
-Sign up to MyKarger
 
 
 
@@ -576,7 +553,7 @@ Number of Tables: 0
 
 ISSN: 0006-8977 (Print) eISSN: 1421-9743 (Online)
 
-For additional information: https://www.karger.com/BBE
+For additional information: https://beta.karger.com/BBE
 
 
 
@@ -1540,7 +1517,7 @@ Number of Tables: 0
 
 ISSN: 0006-8977 (Print) eISSN: 1421-9743 (Online)
 
-For additional information: https://www.karger.com/BBE
+For additional information: https://beta.karger.com/BBE
 
 
 
@@ -1751,11 +1728,9 @@ SERVICES
 
 Authors
 Booksellers
-Healthcare Professionals
 Industry
 Librarians
-Patients
-Researchers
+Readers
 Societies
 
 
